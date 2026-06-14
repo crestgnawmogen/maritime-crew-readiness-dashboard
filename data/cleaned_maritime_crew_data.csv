@@ -1,0 +1,501 @@
+crew_id,full_name,rank,department,vessel_type,deployment_status,contract_start_date,contract_end_date,medical_expiry_date,passport_expiry_date,visa_expiry_date,training_expiry_date,years_experience,last_deployment_date,days_until_medical_expiry,days_until_passport_expiry,days_until_visa_expiry,days_until_training_expiry,contract_days_remaining,nearest_document_expiry_days,document_risk_status,readiness_status
+CRW-0001,John Flores,Captain,Deck,General Cargo Vessel,For Deployment,2026-03-24,2027-01-11,2027-06-08,2028-11-13,2026-08-27,2028-01-29,4,2025-03-09,359,883,74,594,211,74,Low Risk,Ready
+CRW-0002,John Gonzales,Captain,Deck,Bulk Carrier,Available,2026-05-02,2027-01-20,2026-09-03,2028-05-17,2027-08-02,2027-01-15,19,2025-02-10,81,703,414,215,220,81,Low Risk,Ready
+CRW-0003,Angela Villanueva,Rigger,Offshore,Bulk Carrier,Available,2026-02-25,2026-08-19,2026-11-13,2026-08-27,2026-09-01,2027-06-28,8,2026-02-05,152,74,79,379,66,74,Low Risk,Ready
+CRW-0004,Jose Dela Cruz,Cook,Catering,Cable Layer,For Deployment,2026-03-13,2026-10-15,2026-07-04,2027-12-01,2027-03-26,2028-03-08,17,2024-08-20,20,535,285,633,123,20,High Risk,Not Ready
+CRW-0005,Mark Reyes,Messman,Catering,Container Vessel,Not Ready,2025-12-18,2026-05-07,2026-09-21,2028-10-18,2026-09-10,2027-06-28,7,2025-08-04,99,857,88,379,-38,88,Low Risk,Needs Review
+CRW-0006,Ana Aquino,Laundry Staff,Hotel,Offshore Support Vessel,Available,2025-12-30,2026-10-25,2027-05-09,2028-03-08,2026-08-11,2028-02-17,6,2024-08-03,329,633,58,613,133,58,Medium Risk,Needs Review
+CRW-0007,Paolo Dela Cruz,Oiler,Engine,General Cargo Vessel,Available,2025-12-28,2026-10-07,2027-05-12,2027-12-06,2027-01-09,2028-05-05,12,2025-06-17,332,540,209,691,115,209,Low Risk,Ready
+CRW-0008,Kristine Bautista,Chief Mate,Deck,Bulk Carrier,For Deployment,2026-01-27,2026-10-19,2027-05-27,2027-04-02,2027-01-02,2028-04-05,2,2024-12-20,347,292,202,661,127,202,Low Risk,Ready
+CRW-0009,Luis Mendoza,Laundry Staff,Hotel,Passenger Ship,Available,2026-01-01,2026-09-27,2026-12-30,2028-11-19,2027-07-12,2027-06-09,7,2025-10-03,199,889,393,360,105,199,Low Risk,Ready
+CRW-0010,Jose Garcia,Oiler,Engine,Passenger Ship,Onboard,2026-02-23,2026-12-14,2026-12-27,2028-01-15,2026-08-03,2027-07-03,4,2025-04-20,196,580,50,384,183,50,Medium Risk,Needs Review
+CRW-0011,Grace Santos,Safety Officer,Offshore,Cable Layer,For Deployment,2025-12-30,2026-10-10,2026-11-15,2026-09-06,2027-03-26,2027-08-23,3,2025-12-05,154,84,285,435,118,84,Low Risk,Ready
+CRW-0012,Luis Gonzales,Steward,Hotel,General Cargo Vessel,Not Ready,2025-08-29,2026-01-23,2027-04-10,2027-03-16,2026-12-19,2026-11-07,5,2025-04-28,300,275,188,146,-142,146,Low Risk,Needs Review
+CRW-0013,Michelle Villanueva,Oiler,Engine,Cable Layer,Onboard,2026-05-06,2026-10-01,2026-11-26,2028-10-30,2027-04-09,2027-02-04,15,2026-03-17,165,869,299,235,109,165,Low Risk,Needs Review
+CRW-0014,Camille Cruz,Oiler,Engine,Bulk Carrier,Onboard,2026-03-12,2026-08-11,2027-04-27,2027-09-13,2026-11-15,2027-03-02,17,2024-11-21,317,456,154,261,58,154,Low Risk,Needs Review
+CRW-0015,Ryan Castillo,Safety Officer,Offshore,Container Vessel,On Vacation,2025-11-05,2026-06-25,2027-02-13,2027-08-20,2026-09-30,2027-02-12,12,2025-09-27,244,432,108,243,11,108,Low Risk,Needs Review
+CRW-0016,Grace Flores,Second Mate,Deck,Bulk Carrier,On Vacation,2026-01-23,2026-05-24,2026-06-30,2028-05-08,2026-07-29,2027-01-24,18,2026-03-07,16,694,45,224,-21,16,High Risk,Not Ready
+CRW-0017,Nicole Flores,Bosun,Deck,Offshore Support Vessel,Onboard,2025-09-09,2026-03-02,2027-02-25,2026-09-27,2027-09-26,2027-02-07,8,2024-03-03,256,105,469,238,-104,105,Low Risk,Needs Review
+CRW-0018,Carlo Morales,Housekeeping Staff,Hotel,Container Vessel,Onboard,2025-10-11,2026-05-24,2027-01-19,2028-10-15,2026-07-24,2028-04-23,11,2024-07-15,219,854,40,679,-21,40,Medium Risk,Needs Review
+CRW-0019,Maria Garcia,Captain,Deck,Passenger Ship,Not Ready,2026-02-06,2026-07-24,2027-02-23,2027-08-17,2026-10-20,2027-08-10,7,2025-11-09,254,429,128,422,40,128,Low Risk,Needs Review
+CRW-0020,Jessa Lopez,Cook,Catering,Container Vessel,Onboard,2026-04-20,2027-01-31,2027-02-25,2028-09-17,2026-06-14,2026-09-07,3,2024-04-04,256,826,0,85,231,0,High Risk,Not Ready
+CRW-0021,Camille Ramos,Second Engineer,Engine,Passenger Ship,Pending Documents,2026-04-15,2026-09-24,2026-12-05,2026-05-17,2027-07-03,2027-03-02,12,2024-03-04,174,-28,384,261,102,-28,Expired,Not Ready
+CRW-0022,Grace Fernandez,Housekeeping Staff,Hotel,Passenger Ship,Not Ready,2026-02-07,2026-08-21,2026-09-13,2026-07-13,2026-07-31,2027-04-21,4,2026-03-18,91,29,47,311,68,29,High Risk,Not Ready
+CRW-0023,Nicole Torres,Able Seaman,Deck,Passenger Ship,On Vacation,2025-08-28,2026-01-15,2026-08-28,2026-07-24,2026-08-07,2028-04-25,1,2025-09-17,75,40,54,681,-150,40,Medium Risk,Needs Review
+CRW-0024,Rhea Rivera,Steward,Hotel,Cable Layer,Available,2026-04-04,2026-11-17,2027-04-26,2028-01-02,2027-04-18,2027-02-26,1,2025-10-18,316,567,308,257,156,257,Low Risk,Ready
+CRW-0025,Miguel Castillo,Chief Cook,Catering,Offshore Support Vessel,Pending Documents,2025-12-05,2026-04-22,2026-05-29,2027-08-27,2026-09-09,2026-08-18,14,2024-11-11,-16,439,87,65,-53,-16,Expired,Not Ready
+CRW-0026,Ana Cruz,Oiler,Engine,Offshore Support Vessel,Available,2025-11-07,2026-05-18,2026-08-13,2027-08-06,2027-04-04,2028-02-20,7,2024-02-09,60,418,294,616,-27,60,Medium Risk,Needs Review
+CRW-0027,Rafael Garcia,Offshore Technician,Offshore,General Cargo Vessel,On Vacation,2025-12-31,2026-05-29,2026-07-18,2028-06-13,2026-11-05,2027-03-09,4,2025-07-31,34,730,144,268,-16,34,Medium Risk,Needs Review
+CRW-0028,Ryan Bautista,Crane Operator,Offshore,General Cargo Vessel,For Deployment,2025-09-07,2026-03-10,2026-06-20,2026-08-17,2027-08-06,2027-03-14,16,2026-03-31,6,64,418,273,-96,6,High Risk,Not Ready
+CRW-0029,Luis Torres,Second Mate,Deck,Container Vessel,Not Ready,2025-10-09,2026-06-29,2026-05-29,2026-09-06,2026-08-15,2028-05-11,14,2025-12-14,-16,84,62,697,15,-16,Expired,Not Ready
+CRW-0030,Grace Mendoza,Offshore Technician,Offshore,Offshore Support Vessel,On Vacation,2026-03-11,2026-07-19,2026-10-29,2027-05-23,2026-07-09,2027-06-05,13,2025-10-12,137,343,25,356,35,25,High Risk,Not Ready
+CRW-0031,Grace Morales,Wiper,Engine,Bulk Carrier,For Deployment,2026-02-25,2026-08-24,2026-08-16,2028-08-11,2026-11-27,2027-07-31,19,2026-04-20,63,789,166,412,71,63,Low Risk,Ready
+CRW-0032,John Bautista,Wiper,Engine,Offshore Support Vessel,Pending Documents,2026-03-21,2026-10-24,2026-06-13,2028-10-10,2027-09-23,2027-01-17,5,2025-10-23,-1,849,466,217,132,-1,Expired,Not Ready
+CRW-0033,John Santos,Housekeeping Staff,Hotel,Offshore Support Vessel,Available,2025-10-23,2026-05-15,2026-10-14,2028-10-16,2026-08-09,2027-03-16,6,2025-05-21,122,855,56,275,-30,56,Medium Risk,Needs Review
+CRW-0034,Maria Santos,Safety Officer,Offshore,General Cargo Vessel,On Vacation,2026-01-02,2026-06-16,2027-03-18,2027-02-10,2026-07-08,2026-09-23,3,2024-09-12,277,241,24,101,2,24,High Risk,Not Ready
+CRW-0035,Angela Rivera,Housekeeping Staff,Hotel,General Cargo Vessel,For Deployment,2026-03-17,2026-10-21,2027-03-16,2026-11-25,2027-02-14,2026-07-19,16,2024-05-20,275,164,245,35,129,35,Medium Risk,Needs Review
+CRW-0036,Ryan Aquino,Steward,Hotel,Cable Layer,On Vacation,2026-04-10,2027-01-25,2026-11-10,2028-02-12,2027-04-16,2028-04-13,13,2023-12-29,149,608,306,669,225,149,Low Risk,Needs Review
+CRW-0037,Rafael Morales,Ordinary Seaman,Deck,Offshore Support Vessel,On Vacation,2025-10-21,2026-08-15,2026-10-23,2027-12-03,2026-10-07,2026-12-17,10,2025-03-11,131,537,115,186,62,115,Low Risk,Needs Review
+CRW-0038,Michelle Perez,Laundry Staff,Hotel,General Cargo Vessel,Available,2025-10-20,2026-07-07,2026-05-25,2027-03-22,2027-03-19,2027-01-05,9,2025-03-01,-20,281,278,205,23,-20,Expired,Not Ready
+CRW-0039,Jessa Ramos,Rigger,Offshore,Passenger Ship,Pending Documents,2025-09-15,2026-02-25,2027-04-27,2026-08-09,2027-03-16,2027-11-13,16,2024-07-05,317,56,275,517,-109,56,Medium Risk,Needs Review
+CRW-0040,Rafael Flores,Rigger,Offshore,Bulk Carrier,Available,2026-03-01,2026-07-05,2026-06-17,2027-01-20,2027-09-28,2028-02-19,6,2023-12-27,3,220,471,615,21,3,High Risk,Not Ready
+CRW-0041,Rhea Ramos,Third Mate,Deck,Passenger Ship,Not Ready,2025-09-04,2026-04-14,2026-09-26,2026-10-13,2026-06-04,2026-09-21,12,2024-03-09,104,121,-10,99,-61,-10,Expired,Not Ready
+CRW-0042,Nicole Dela Cruz,Steward,Hotel,Container Vessel,Not Ready,2026-01-08,2026-06-08,2027-01-13,2026-09-28,2027-09-17,2028-04-17,1,2024-11-18,213,106,460,673,-6,106,Low Risk,Needs Review
+CRW-0043,Nicole Morales,Rigger,Offshore,Passenger Ship,On Vacation,2025-09-29,2026-03-08,2027-06-09,2028-10-13,2027-09-28,2027-09-07,17,2025-08-23,360,852,471,450,-98,360,Low Risk,Needs Review
+CRW-0044,Nicole Fernandez,Electrician,Engine,General Cargo Vessel,For Deployment,2026-01-13,2026-07-22,2027-01-05,2026-08-02,2027-03-18,2027-01-30,20,2025-08-10,205,49,277,230,38,49,Medium Risk,Needs Review
+CRW-0045,Miguel Mendoza,Cook,Catering,Cable Layer,Onboard,2025-10-31,2026-08-24,2026-08-11,2028-05-07,2027-01-04,2026-08-08,7,2025-03-17,58,693,204,55,71,55,Medium Risk,Needs Review
+CRW-0046,Angela Reyes,Housekeeping Staff,Hotel,Cable Layer,Pending Documents,2025-10-12,2026-05-19,2027-03-20,2028-04-26,2026-06-19,2028-01-14,6,2025-04-21,279,682,5,579,-26,5,High Risk,Not Ready
+CRW-0047,Kristine Morales,Steward,Hotel,Offshore Support Vessel,For Deployment,2026-01-23,2026-09-24,2026-09-14,2027-02-18,2027-08-19,2027-10-14,17,2026-04-16,92,249,431,487,102,92,Low Risk,Ready
+CRW-0048,Kristine Torres,Housekeeping Staff,Hotel,General Cargo Vessel,Not Ready,2026-03-11,2026-12-15,2027-02-22,2026-06-11,2027-07-07,2028-01-31,14,2024-10-15,253,-3,388,596,184,-3,Expired,Not Ready
+CRW-0049,Miguel Dela Cruz,Captain,Deck,General Cargo Vessel,Pending Documents,2026-04-20,2026-10-23,2026-12-05,2027-04-15,2027-01-01,2027-09-12,5,2025-06-15,174,305,201,455,131,174,Low Risk,Needs Review
+CRW-0050,Luis Cruz,Cook,Catering,Offshore Support Vessel,Pending Documents,2026-05-06,2027-01-19,2026-06-20,2027-05-08,2027-01-14,2028-03-30,15,2026-03-06,6,328,214,655,219,6,High Risk,Not Ready
+CRW-0051,Ryan Santos,Bosun,Deck,Bulk Carrier,Available,2026-02-26,2026-08-26,2026-07-28,2027-09-11,2026-09-24,2028-01-02,19,2025-10-04,44,454,102,567,73,44,Medium Risk,Needs Review
+CRW-0052,Paolo Rivera,Laundry Staff,Hotel,Offshore Support Vessel,For Deployment,2026-03-18,2026-08-26,2026-10-31,2026-09-02,2026-06-25,2027-04-19,19,2024-10-03,139,80,11,309,73,11,High Risk,Not Ready
+CRW-0053,Mark Perez,Housekeeping Staff,Hotel,General Cargo Vessel,Available,2026-01-11,2026-06-06,2027-05-16,2028-07-14,2027-04-03,2028-05-04,20,2024-09-08,336,761,293,690,-8,293,Low Risk,Ready
+CRW-0054,Ana Lopez,Bosun,Deck,Cable Layer,Onboard,2025-11-07,2026-03-24,2027-02-08,2028-03-08,2027-05-14,2026-06-16,13,2023-12-28,239,633,334,2,-82,2,High Risk,Not Ready
+CRW-0055,Ana Dela Cruz,Housekeeping Staff,Hotel,Bulk Carrier,Pending Documents,2025-10-05,2026-03-19,2027-06-04,2027-10-31,2027-03-02,2028-02-24,4,2024-02-08,355,504,261,620,-87,261,Low Risk,Needs Review
+CRW-0056,Rhea Bautista,Safety Officer,Offshore,Passenger Ship,Pending Documents,2026-01-10,2026-06-01,2026-10-14,2028-11-02,2027-09-03,2027-02-08,10,2024-04-07,122,872,446,239,-13,122,Low Risk,Needs Review
+CRW-0057,Kristine Villanueva,Laundry Staff,Hotel,Cable Layer,Not Ready,2025-09-04,2026-03-26,2026-08-26,2027-09-26,2027-01-02,2027-06-02,0,2024-02-19,73,469,202,353,-80,73,Low Risk,Needs Review
+CRW-0058,Luis Lopez,Cook,Catering,Offshore Support Vessel,On Vacation,2025-08-24,2026-02-08,2026-07-07,2027-01-17,2027-07-20,2027-10-17,0,2024-10-24,23,217,401,490,-126,23,High Risk,Not Ready
+CRW-0059,Camille Dela Cruz,Wiper,Engine,Passenger Ship,Not Ready,2026-03-29,2026-10-10,2026-09-15,2027-07-03,2027-02-03,2027-04-13,0,2024-07-05,93,384,234,303,118,93,Low Risk,Needs Review
+CRW-0060,Nicole Aquino,Rigger,Offshore,Passenger Ship,On Vacation,2025-11-27,2026-06-25,2027-05-19,2027-08-22,2027-03-03,2027-04-13,13,2025-08-31,339,434,262,303,11,262,Low Risk,Needs Review
+CRW-0061,Maria Garcia,Chief Engineer,Engine,General Cargo Vessel,Available,2026-02-10,2026-07-29,2026-09-12,2028-06-09,2027-10-07,2027-03-14,17,2024-05-04,90,726,480,273,45,90,Low Risk,Ready
+CRW-0062,Rafael Flores,Rigger,Offshore,Bulk Carrier,Available,2026-02-13,2026-08-29,2026-06-01,2028-05-09,2026-10-06,2027-03-11,11,2026-03-30,-13,695,114,270,76,-13,Expired,Not Ready
+CRW-0063,Miguel Fernandez,Able Seaman,Deck,Offshore Support Vessel,Not Ready,2026-05-09,2027-01-30,2026-10-17,2027-09-07,2027-10-02,2027-08-29,3,2025-06-01,125,450,475,441,230,125,Low Risk,Needs Review
+CRW-0064,Carlo Cruz,Chief Engineer,Engine,Offshore Support Vessel,Pending Documents,2025-09-06,2026-01-22,2027-03-16,2028-02-18,2026-07-23,2026-11-06,12,2025-12-14,275,614,39,145,-143,39,Medium Risk,Needs Review
+CRW-0065,Carlo Lopez,Rigger,Offshore,Bulk Carrier,Available,2026-01-20,2026-09-30,2026-12-05,2027-08-19,2027-08-26,2027-04-04,13,2024-09-20,174,431,438,294,108,174,Low Risk,Ready
+CRW-0066,Jose Rivera,Housekeeping Staff,Hotel,Cable Layer,On Vacation,2026-01-29,2026-11-05,2026-09-10,2027-02-09,2026-08-21,2026-11-11,3,2025-09-12,88,240,68,150,144,68,Low Risk,Needs Review
+CRW-0067,Juan Morales,Oiler,Engine,Bulk Carrier,Available,2025-09-17,2026-03-30,2026-06-10,2027-01-07,2027-03-21,2028-05-27,14,2025-07-30,-4,207,280,713,-76,-4,Expired,Not Ready
+CRW-0068,Luis Perez,Steward,Hotel,General Cargo Vessel,Available,2025-10-10,2026-03-08,2027-02-27,2026-12-31,2026-10-29,2027-03-03,6,2024-01-20,258,200,137,262,-98,137,Low Risk,Ready
+CRW-0069,Rafael Rivera,Chief Engineer,Engine,Bulk Carrier,Available,2025-12-19,2026-08-08,2026-07-27,2027-09-06,2027-04-06,2028-05-20,18,2025-03-29,43,449,296,706,55,43,Medium Risk,Needs Review
+CRW-0070,Jessa Cruz,Messman,Catering,Cable Layer,Pending Documents,2026-04-25,2026-12-11,2027-06-05,2027-04-10,2027-02-10,2026-06-30,19,2026-02-11,356,300,241,16,180,16,High Risk,Not Ready
+CRW-0071,Juan Bautista,Wiper,Engine,Cable Layer,On Vacation,2026-04-25,2026-10-06,2027-01-20,2027-10-28,2027-08-25,2027-03-15,18,2025-11-11,220,501,437,274,114,220,Low Risk,Needs Review
+CRW-0072,Mark Fernandez,Safety Officer,Offshore,General Cargo Vessel,Pending Documents,2025-10-18,2026-05-11,2026-11-05,2028-03-31,2026-09-14,2026-11-15,11,2025-06-12,144,656,92,154,-34,92,Low Risk,Needs Review
+CRW-0073,Kristine Lopez,Laundry Staff,Hotel,Passenger Ship,For Deployment,2025-09-25,2026-02-14,2026-11-02,2027-01-28,2027-04-26,2026-09-30,1,2024-03-15,141,228,316,108,-120,108,Low Risk,Ready
+CRW-0074,Grace Dela Cruz,Laundry Staff,Hotel,Bulk Carrier,Not Ready,2026-04-18,2026-10-03,2027-02-14,2027-05-20,2027-10-22,2028-03-05,13,2025-02-17,245,340,495,630,111,245,Low Risk,Needs Review
+CRW-0075,Miguel Castillo,Chief Mate,Deck,Offshore Support Vessel,On Vacation,2025-09-09,2026-02-07,2026-06-08,2028-02-19,2027-01-30,2028-05-30,14,2025-12-04,-6,615,230,716,-127,-6,Expired,Not Ready
+CRW-0076,Angela Cruz,Messman,Catering,Bulk Carrier,On Vacation,2026-03-18,2026-11-11,2026-07-24,2028-03-08,2026-11-03,2027-10-27,7,2024-05-12,40,633,142,500,150,40,Medium Risk,Needs Review
+CRW-0077,Angela Fernandez,Messman,Catering,General Cargo Vessel,For Deployment,2026-01-11,2026-09-04,2027-03-03,2026-10-10,2027-06-26,2026-12-16,15,2024-09-09,262,118,377,185,82,118,Low Risk,Ready
+CRW-0078,Angela Villanueva,Crane Operator,Offshore,Bulk Carrier,For Deployment,2025-12-30,2026-04-29,2026-10-16,2028-05-27,2027-03-31,2028-01-26,16,2024-09-29,124,713,290,591,-46,124,Low Risk,Ready
+CRW-0079,Camille Aquino,Steward,Hotel,Passenger Ship,On Vacation,2025-11-03,2026-06-27,2026-11-05,2028-10-21,2026-12-09,2028-05-18,10,2025-09-13,144,860,178,704,13,144,Low Risk,Needs Review
+CRW-0080,Jose Villanueva,Safety Officer,Offshore,Container Vessel,Pending Documents,2025-11-01,2026-06-07,2027-04-29,2028-08-03,2026-11-01,2027-10-24,15,2026-04-08,319,781,140,497,-7,140,Low Risk,Needs Review
+CRW-0081,Carlo Dela Cruz,Oiler,Engine,Cable Layer,For Deployment,2025-08-19,2026-04-12,2026-06-01,2028-05-23,2026-10-24,2027-07-28,3,2024-07-14,-13,709,132,409,-63,-13,Expired,Not Ready
+CRW-0082,Maria Rivera,Chief Engineer,Engine,Passenger Ship,For Deployment,2026-04-04,2026-10-25,2027-05-05,2028-10-10,2027-06-23,2027-04-24,12,2024-08-12,325,849,374,314,133,314,Low Risk,Ready
+CRW-0083,Mark Flores,Laundry Staff,Hotel,Bulk Carrier,On Vacation,2025-12-19,2026-06-15,2027-06-11,2026-08-15,2027-08-17,2026-09-12,20,2024-03-28,362,62,429,90,1,62,Low Risk,Needs Review
+CRW-0084,Rafael Santos,Third Mate,Deck,Container Vessel,Not Ready,2025-11-30,2026-04-13,2026-10-22,2027-05-17,2027-06-17,2027-08-19,1,2025-12-17,130,337,368,431,-62,130,Low Risk,Needs Review
+CRW-0085,Paolo Torres,Oiler,Engine,Passenger Ship,On Vacation,2026-04-05,2027-01-06,2026-12-06,2028-02-08,2027-01-31,2027-10-26,5,2024-09-25,175,604,231,499,206,175,Low Risk,Needs Review
+CRW-0086,Luis Dela Cruz,Second Engineer,Engine,Passenger Ship,Not Ready,2026-05-11,2027-01-05,2026-10-19,2028-04-07,2026-11-07,2026-08-18,8,2025-02-17,127,663,146,65,205,65,Low Risk,Needs Review
+CRW-0087,Angela Bautista,Messman,Catering,Offshore Support Vessel,Not Ready,2025-12-12,2026-05-31,2026-12-07,2028-10-04,2027-10-06,2026-09-21,14,2025-09-15,176,843,479,99,-14,99,Low Risk,Needs Review
+CRW-0088,Rafael Castillo,Laundry Staff,Hotel,Offshore Support Vessel,On Vacation,2025-10-25,2026-05-03,2026-05-29,2027-12-15,2026-07-19,2028-02-14,0,2024-04-12,-16,549,35,610,-42,-16,Expired,Not Ready
+CRW-0089,Ana Flores,Housekeeping Staff,Hotel,Container Vessel,On Vacation,2026-02-07,2026-11-12,2026-09-30,2028-04-08,2026-10-17,2028-03-08,20,2026-02-05,108,664,125,633,151,108,Low Risk,Needs Review
+CRW-0090,Rhea Aquino,Second Mate,Deck,Passenger Ship,Onboard,2026-03-30,2026-10-11,2026-11-08,2028-06-18,2027-07-29,2026-11-30,4,2025-10-22,147,735,410,169,119,147,Low Risk,Needs Review
+CRW-0091,Nicole Gonzales,Electrician,Engine,Cable Layer,For Deployment,2026-02-20,2026-08-24,2027-01-26,2028-08-17,2027-03-28,2027-05-16,8,2024-02-12,226,795,287,336,71,226,Low Risk,Ready
+CRW-0092,John Navarro,Third Mate,Deck,Bulk Carrier,Available,2025-11-09,2026-04-01,2026-12-13,2026-05-29,2027-02-24,2027-12-05,17,2026-01-09,182,-16,255,539,-74,-16,Expired,Not Ready
+CRW-0093,Luis Perez,Housekeeping Staff,Hotel,General Cargo Vessel,Not Ready,2025-11-06,2026-04-02,2027-05-05,2027-01-09,2027-09-24,2026-06-29,12,2024-08-19,325,209,467,15,-73,15,High Risk,Not Ready
+CRW-0094,Mark Dela Cruz,Rigger,Offshore,Cable Layer,Available,2025-10-18,2026-03-16,2026-08-04,2026-06-30,2026-07-07,2027-04-11,9,2024-12-27,51,16,23,301,-90,16,High Risk,Not Ready
+CRW-0095,Miguel Navarro,Captain,Deck,Container Vessel,On Vacation,2025-11-07,2026-08-25,2027-06-09,2028-04-27,2027-08-02,2028-01-26,14,2024-04-15,360,683,414,591,72,360,Low Risk,Needs Review
+CRW-0096,Camille Rivera,Fourth Engineer,Engine,General Cargo Vessel,Onboard,2025-12-23,2026-04-30,2027-05-13,2027-05-29,2027-01-07,2027-09-01,13,2025-02-14,333,349,207,444,-45,207,Low Risk,Needs Review
+CRW-0097,Ana Lopez,Electrician,Engine,Offshore Support Vessel,Onboard,2025-11-13,2026-03-28,2026-12-14,2027-02-21,2026-12-10,2026-10-07,20,2023-12-29,183,252,179,115,-78,115,Low Risk,Needs Review
+CRW-0098,Michelle Santos,Steward,Hotel,General Cargo Vessel,Available,2025-11-26,2026-05-27,2026-07-28,2028-07-28,2026-12-26,2026-08-13,1,2024-01-17,44,775,195,60,-18,44,Medium Risk,Needs Review
+CRW-0099,John Villanueva,Crane Operator,Offshore,Cable Layer,Available,2026-05-14,2026-11-20,2026-08-07,2026-09-25,2027-02-10,2026-11-29,4,2026-01-23,54,103,241,168,159,54,Medium Risk,Needs Review
+CRW-0100,John Perez,Chief Mate,Deck,Bulk Carrier,For Deployment,2026-05-07,2026-10-18,2026-10-07,2026-07-07,2026-10-06,2027-08-09,10,2024-11-23,115,23,114,421,126,23,High Risk,Not Ready
+CRW-0101,Jessa Aquino,Ordinary Seaman,Deck,Bulk Carrier,Pending Documents,2026-03-21,2026-11-11,2027-02-06,2026-12-27,2026-07-13,2028-04-08,16,2024-11-28,237,196,29,664,150,29,High Risk,Not Ready
+CRW-0102,Jose Fernandez,Cook,Catering,General Cargo Vessel,Onboard,2025-10-09,2026-07-31,2026-07-19,2027-09-29,2027-08-27,2026-08-18,12,2026-02-22,35,472,439,65,47,35,Medium Risk,Needs Review
+CRW-0103,Miguel Bautista,Messman,Catering,Container Vessel,Onboard,2025-11-30,2026-07-05,2027-03-26,2027-11-09,2027-03-27,2027-09-11,19,2024-12-14,285,513,286,454,21,285,Low Risk,Needs Review
+CRW-0104,Carlo Lopez,Safety Officer,Offshore,Bulk Carrier,Not Ready,2025-10-07,2026-05-30,2026-09-18,2027-07-12,2027-05-12,2027-09-11,6,2025-04-02,96,393,332,454,-15,96,Low Risk,Needs Review
+CRW-0105,Angela Villanueva,Laundry Staff,Hotel,Bulk Carrier,For Deployment,2025-11-05,2026-04-13,2027-05-11,2027-09-12,2026-08-06,2026-09-05,8,2024-01-15,331,455,53,83,-62,53,Medium Risk,Needs Review
+CRW-0106,Ana Mendoza,Captain,Deck,Passenger Ship,Onboard,2026-04-15,2027-01-10,2027-03-08,2027-12-11,2027-05-02,2028-04-20,17,2026-01-10,267,545,322,676,210,267,Low Risk,Needs Review
+CRW-0107,Jose Castillo,Housekeeping Staff,Hotel,General Cargo Vessel,Pending Documents,2025-12-07,2026-07-05,2026-07-17,2027-12-27,2027-01-02,2026-11-09,19,2024-07-12,33,561,202,148,21,33,Medium Risk,Needs Review
+CRW-0108,Grace Aquino,Steward,Hotel,Bulk Carrier,For Deployment,2025-12-24,2026-09-16,2026-09-17,2028-08-18,2027-08-12,2027-12-30,3,2024-03-21,95,796,424,564,94,95,Low Risk,Ready
+CRW-0109,Luis Santos,Offshore Technician,Offshore,Cable Layer,Not Ready,2025-12-27,2026-10-22,2026-10-30,2027-04-27,2027-05-24,2026-06-10,5,2025-11-11,138,317,344,-4,130,-4,Expired,Not Ready
+CRW-0110,Mark Mendoza,Oiler,Engine,General Cargo Vessel,Pending Documents,2026-04-30,2026-09-20,2027-06-11,2027-11-09,2027-01-05,2027-06-24,20,2025-03-12,362,513,205,375,98,205,Low Risk,Needs Review
+CRW-0111,Rafael Villanueva,Housekeeping Staff,Hotel,Container Vessel,For Deployment,2026-04-02,2026-08-13,2026-08-12,2026-10-23,2026-07-19,2028-04-24,18,2026-02-21,59,131,35,680,60,35,Medium Risk,Needs Review
+CRW-0112,Camille Rivera,Cook,Catering,General Cargo Vessel,Pending Documents,2025-10-15,2026-04-22,2026-09-12,2028-06-26,2026-09-23,2027-05-23,14,2025-03-01,90,743,101,343,-53,90,Low Risk,Needs Review
+CRW-0113,Rhea Fernandez,Second Mate,Deck,General Cargo Vessel,Not Ready,2025-12-09,2026-04-19,2026-09-14,2027-06-23,2026-07-25,2026-06-11,16,2025-10-18,92,374,41,-3,-56,-3,Expired,Not Ready
+CRW-0114,Rafael Villanueva,Chief Cook,Catering,Container Vessel,For Deployment,2026-05-12,2027-01-14,2027-06-11,2027-07-29,2026-11-25,2026-10-14,3,2025-04-21,362,410,164,122,214,122,Low Risk,Ready
+CRW-0115,Ana Cruz,Crane Operator,Offshore,Cable Layer,On Vacation,2026-04-24,2026-12-11,2026-06-03,2027-08-28,2026-08-17,2027-04-20,12,2024-10-03,-11,440,64,310,180,-11,Expired,Not Ready
+CRW-0116,Angela Castillo,Laundry Staff,Hotel,Passenger Ship,Not Ready,2025-10-20,2026-02-22,2026-11-07,2026-11-06,2027-09-13,2028-05-10,3,2025-05-10,146,145,456,696,-112,145,Low Risk,Needs Review
+CRW-0117,Angela Perez,Third Mate,Deck,Bulk Carrier,Available,2025-08-20,2026-01-07,2026-12-13,2028-10-22,2027-04-12,2027-05-17,12,2025-10-01,182,861,302,337,-158,182,Low Risk,Ready
+CRW-0118,Carlo Gonzales,Chief Cook,Catering,Bulk Carrier,On Vacation,2026-02-05,2026-09-02,2026-11-20,2028-05-28,2026-10-28,2027-01-31,16,2026-01-30,159,714,136,231,80,136,Low Risk,Needs Review
+CRW-0119,Michelle Mendoza,Third Engineer,Engine,Container Vessel,Available,2026-04-07,2026-09-19,2027-04-11,2027-10-02,2027-09-17,2028-01-02,20,2024-03-28,301,475,460,567,97,301,Low Risk,Ready
+CRW-0120,Michelle Villanueva,Safety Officer,Offshore,General Cargo Vessel,On Vacation,2025-12-05,2026-05-12,2027-01-05,2026-07-23,2027-09-22,2027-08-30,20,2024-08-07,205,39,465,442,-33,39,Medium Risk,Needs Review
+CRW-0121,Ana Gonzales,Cook,Catering,Cable Layer,Onboard,2025-12-08,2026-08-03,2027-01-11,2026-06-22,2026-07-27,2027-06-16,2,2024-01-15,211,8,43,367,50,8,High Risk,Not Ready
+CRW-0122,Michelle Rivera,Chief Cook,Catering,General Cargo Vessel,Onboard,2025-10-31,2026-06-26,2027-03-18,2027-12-03,2026-07-11,2027-09-07,16,2024-02-06,277,537,27,450,12,27,High Risk,Not Ready
+CRW-0123,Camille Gonzales,Crane Operator,Offshore,Offshore Support Vessel,On Vacation,2026-04-14,2026-12-05,2026-07-16,2028-08-22,2027-05-16,2028-06-04,4,2026-02-18,32,800,336,721,174,32,Medium Risk,Needs Review
+CRW-0124,Jessa Dela Cruz,Crane Operator,Offshore,Bulk Carrier,Available,2025-08-21,2026-05-24,2026-08-14,2027-05-22,2027-06-15,2027-03-20,16,2025-04-14,61,342,366,279,-21,61,Low Risk,Ready
+CRW-0125,Jose Villanueva,Housekeeping Staff,Hotel,General Cargo Vessel,On Vacation,2025-11-28,2026-04-21,2027-03-06,2028-04-08,2027-06-29,2027-03-21,2,2025-08-30,265,664,380,280,-54,265,Low Risk,Needs Review
+CRW-0126,Rhea Mendoza,Crane Operator,Offshore,Offshore Support Vessel,Onboard,2025-12-08,2026-09-21,2027-05-17,2028-03-23,2027-07-05,2026-10-14,11,2024-09-13,337,648,386,122,99,122,Low Risk,Needs Review
+CRW-0127,Maria Mendoza,Second Mate,Deck,Cable Layer,Pending Documents,2026-03-29,2027-01-08,2027-05-03,2027-07-22,2027-06-04,2026-06-22,16,2025-05-09,323,403,355,8,208,8,High Risk,Not Ready
+CRW-0128,Camille Ramos,Chief Cook,Catering,Container Vessel,For Deployment,2026-03-06,2026-08-12,2026-07-03,2027-03-13,2026-09-10,2027-11-05,7,2024-03-17,19,272,88,509,59,19,High Risk,Not Ready
+CRW-0129,Michelle Mendoza,Offshore Technician,Offshore,General Cargo Vessel,For Deployment,2025-11-04,2026-04-12,2026-08-16,2026-11-16,2026-11-15,2028-06-11,19,2025-02-21,63,155,154,728,-63,63,Low Risk,Ready
+CRW-0130,John Dela Cruz,Third Mate,Deck,Offshore Support Vessel,Not Ready,2025-12-21,2026-08-12,2026-09-21,2027-11-12,2027-01-29,2027-04-16,19,2024-02-07,99,516,229,306,59,99,Low Risk,Needs Review
+CRW-0131,Rhea Dela Cruz,Steward,Hotel,Offshore Support Vessel,Not Ready,2025-12-22,2026-07-27,2027-02-06,2027-11-06,2027-08-01,2026-11-16,14,2024-01-30,237,510,413,155,43,155,Low Risk,Needs Review
+CRW-0132,Luis Reyes,Electrician,Engine,Cable Layer,Available,2025-09-11,2026-04-14,2027-03-04,2026-08-28,2026-10-04,2027-03-22,20,2026-02-19,263,75,112,281,-61,75,Low Risk,Ready
+CRW-0133,Miguel Morales,Third Engineer,Engine,Passenger Ship,On Vacation,2026-01-22,2026-09-14,2026-11-19,2026-06-11,2027-07-28,2026-07-28,2,2025-04-05,158,-3,409,44,92,-3,Expired,Not Ready
+CRW-0134,Mark Aquino,Rigger,Offshore,Container Vessel,Pending Documents,2026-05-01,2026-11-18,2026-07-14,2028-09-20,2027-05-08,2026-10-31,7,2025-12-26,30,829,328,139,157,30,High Risk,Not Ready
+CRW-0135,Miguel Fernandez,Second Mate,Deck,Passenger Ship,Not Ready,2026-05-13,2026-09-30,2026-06-03,2027-02-01,2027-01-05,2026-11-04,14,2024-10-31,-11,232,205,143,108,-11,Expired,Not Ready
+CRW-0136,John Castillo,Safety Officer,Offshore,Bulk Carrier,For Deployment,2026-04-21,2026-10-19,2026-12-25,2028-02-28,2027-09-10,2026-08-07,3,2026-01-22,194,624,453,54,127,54,Medium Risk,Needs Review
+CRW-0137,Nicole Perez,Laundry Staff,Hotel,Cable Layer,Onboard,2026-03-03,2026-09-13,2026-12-30,2026-05-16,2027-05-26,2027-02-05,7,2024-10-08,199,-29,346,236,91,-29,Expired,Not Ready
+CRW-0138,Mark Gonzales,Steward,Hotel,General Cargo Vessel,Not Ready,2026-04-11,2026-12-21,2027-02-27,2027-10-16,2026-06-19,2027-07-08,11,2025-01-19,258,489,5,389,190,5,High Risk,Not Ready
+CRW-0139,Luis Santos,Ordinary Seaman,Deck,Passenger Ship,For Deployment,2026-04-11,2026-11-05,2026-09-25,2028-06-03,2026-09-13,2028-01-20,11,2024-04-23,103,720,91,585,144,91,Low Risk,Ready
+CRW-0140,Grace Villanueva,Chief Cook,Catering,Bulk Carrier,For Deployment,2026-02-15,2026-12-07,2027-01-17,2028-04-26,2027-10-02,2028-03-11,20,2025-11-10,217,682,475,636,176,217,Low Risk,Ready
+CRW-0141,Jose Castillo,Chief Engineer,Engine,General Cargo Vessel,Pending Documents,2026-04-23,2026-10-11,2026-06-15,2027-04-03,2027-04-12,2027-11-13,6,2025-04-03,1,293,302,517,119,1,High Risk,Not Ready
+CRW-0142,Ryan Castillo,Safety Officer,Offshore,Offshore Support Vessel,Onboard,2026-04-21,2027-02-02,2026-11-10,2027-02-18,2026-10-04,2027-06-15,11,2025-02-22,149,249,112,366,233,112,Low Risk,Needs Review
+CRW-0143,Maria Torres,Laundry Staff,Hotel,Passenger Ship,Pending Documents,2025-09-03,2026-04-05,2027-02-14,2027-02-12,2026-08-22,2027-08-12,15,2026-02-24,245,243,69,424,-70,69,Low Risk,Needs Review
+CRW-0144,Rafael Villanueva,Laundry Staff,Hotel,Container Vessel,On Vacation,2026-04-05,2026-10-25,2027-04-28,2027-03-13,2027-04-08,2027-09-03,3,2024-09-05,318,272,298,446,133,272,Low Risk,Needs Review
+CRW-0145,Ana Dela Cruz,Steward,Hotel,General Cargo Vessel,Pending Documents,2025-11-16,2026-08-20,2027-01-02,2027-02-20,2026-07-27,2026-08-19,1,2024-06-27,202,251,43,66,67,43,Medium Risk,Needs Review
+CRW-0146,Paolo Santos,Housekeeping Staff,Hotel,Cable Layer,Not Ready,2025-10-03,2026-02-08,2026-07-28,2026-07-22,2027-01-26,2028-03-25,4,2025-05-05,44,38,226,650,-126,38,Medium Risk,Needs Review
+CRW-0147,Michelle Mendoza,Cook,Catering,Cable Layer,Onboard,2025-11-07,2026-06-10,2027-01-07,2028-07-04,2026-08-16,2028-01-12,14,2025-12-26,207,751,63,577,-4,63,Low Risk,Needs Review
+CRW-0148,Luis Flores,Rigger,Offshore,Passenger Ship,For Deployment,2026-05-02,2026-10-16,2027-02-04,2027-10-27,2027-06-30,2027-12-31,3,2026-01-15,235,500,381,565,124,235,Low Risk,Ready
+CRW-0149,Ryan Rivera,Cook,Catering,General Cargo Vessel,Pending Documents,2025-09-06,2026-02-24,2026-07-26,2026-09-30,2026-08-13,2027-09-09,9,2025-11-20,42,108,60,452,-110,42,Medium Risk,Needs Review
+CRW-0150,Ana Cruz,Steward,Hotel,General Cargo Vessel,For Deployment,2025-12-18,2026-07-02,2026-08-13,2028-05-12,2026-11-24,2027-06-09,17,2024-12-11,60,698,163,360,18,60,Medium Risk,Needs Review
+CRW-0151,John Fernandez,Chief Engineer,Engine,Container Vessel,Available,2025-11-12,2026-07-31,2027-03-14,2027-05-27,2027-09-20,2027-12-20,0,2026-01-03,273,347,463,554,47,273,Low Risk,Ready
+CRW-0152,Kristine Fernandez,Offshore Technician,Offshore,Bulk Carrier,For Deployment,2025-10-17,2026-05-29,2027-03-15,2026-07-29,2026-10-05,2027-04-24,16,2024-07-27,274,45,113,314,-16,45,Medium Risk,Needs Review
+CRW-0153,Nicole Aquino,Third Mate,Deck,Passenger Ship,Not Ready,2026-02-11,2026-07-14,2027-01-01,2027-10-11,2026-07-25,2026-10-09,4,2024-12-01,201,484,41,117,30,41,Medium Risk,Needs Review
+CRW-0154,Maria Flores,Third Engineer,Engine,Container Vessel,Available,2025-08-23,2026-03-03,2026-07-04,2027-01-26,2026-12-17,2028-03-15,11,2024-10-28,20,226,186,640,-103,20,High Risk,Not Ready
+CRW-0155,Michelle Lopez,Chief Cook,Catering,General Cargo Vessel,For Deployment,2025-08-31,2026-06-11,2026-08-19,2028-01-11,2026-11-03,2026-11-26,2,2024-07-10,66,576,142,165,-3,66,Low Risk,Ready
+CRW-0156,Juan Cruz,Rigger,Offshore,Cable Layer,Onboard,2025-12-31,2026-10-13,2026-09-09,2028-07-08,2027-07-30,2028-02-26,1,2024-07-30,87,755,411,622,121,87,Low Risk,Needs Review
+CRW-0157,Rafael Castillo,Third Mate,Deck,General Cargo Vessel,On Vacation,2026-01-10,2026-11-01,2026-12-18,2027-03-15,2027-09-06,2026-08-17,15,2024-06-09,187,274,449,64,140,64,Low Risk,Needs Review
+CRW-0158,Camille Dela Cruz,Chief Mate,Deck,Passenger Ship,Pending Documents,2025-11-22,2026-08-24,2026-08-06,2027-03-31,2027-04-21,2027-05-23,6,2025-04-02,53,290,311,343,71,53,Medium Risk,Needs Review
+CRW-0159,Grace Garcia,Electrician,Engine,Offshore Support Vessel,On Vacation,2026-01-12,2026-09-08,2026-07-26,2027-02-12,2027-09-02,2027-02-12,10,2025-12-22,42,243,445,243,86,42,Medium Risk,Needs Review
+CRW-0160,Michelle Morales,Captain,Deck,Offshore Support Vessel,Pending Documents,2026-02-23,2026-09-14,2027-03-16,2028-05-22,2027-04-15,2026-12-15,7,2024-03-25,275,708,305,184,92,184,Low Risk,Needs Review
+CRW-0161,Camille Castillo,Fourth Engineer,Engine,Cable Layer,Pending Documents,2026-05-04,2026-09-24,2026-12-12,2027-10-14,2027-09-10,2027-02-05,15,2025-10-07,181,487,453,236,102,181,Low Risk,Needs Review
+CRW-0162,Rafael Fernandez,Rigger,Offshore,Bulk Carrier,Onboard,2025-09-17,2026-03-29,2027-02-23,2026-05-23,2026-09-17,2027-08-19,19,2025-12-29,254,-22,95,431,-77,-22,Expired,Not Ready
+CRW-0163,Ana Reyes,Messman,Catering,Offshore Support Vessel,Pending Documents,2026-04-19,2027-01-09,2027-03-08,2026-11-30,2027-06-05,2027-12-22,12,2025-07-24,267,169,356,556,209,169,Low Risk,Needs Review
+CRW-0164,Grace Bautista,Third Mate,Deck,Cable Layer,Pending Documents,2026-03-16,2026-08-15,2026-07-13,2027-06-22,2027-06-16,2027-05-17,19,2024-10-21,29,373,367,337,62,29,High Risk,Not Ready
+CRW-0165,Nicole Navarro,Chief Cook,Catering,Container Vessel,On Vacation,2026-04-25,2026-09-03,2026-06-13,2026-10-02,2027-05-06,2027-10-02,16,2024-11-30,-1,110,326,475,81,-1,Expired,Not Ready
+CRW-0166,Miguel Villanueva,Steward,Hotel,Cable Layer,On Vacation,2025-12-03,2026-05-13,2026-12-12,2028-02-05,2027-04-01,2028-02-01,19,2025-06-05,181,601,291,597,-32,181,Low Risk,Needs Review
+CRW-0167,Rafael Fernandez,Safety Officer,Offshore,General Cargo Vessel,On Vacation,2025-11-08,2026-05-31,2027-05-04,2026-09-04,2027-07-30,2028-01-22,0,2025-07-04,324,82,411,587,-14,82,Low Risk,Needs Review
+CRW-0168,Rhea Perez,Able Seaman,Deck,Passenger Ship,For Deployment,2026-04-19,2027-01-13,2027-01-25,2026-11-05,2027-06-23,2026-11-02,7,2024-01-25,225,144,374,141,213,141,Low Risk,Ready
+CRW-0169,Carlo Ramos,Chief Engineer,Engine,Cable Layer,Not Ready,2025-10-02,2026-04-20,2026-12-25,2026-10-17,2027-07-26,2028-05-11,0,2025-10-19,194,125,407,697,-55,125,Low Risk,Needs Review
+CRW-0170,Jose Mendoza,Laundry Staff,Hotel,Cable Layer,Pending Documents,2026-01-29,2026-10-19,2026-11-07,2028-03-23,2027-10-01,2027-11-24,16,2025-04-25,146,648,474,528,127,146,Low Risk,Needs Review
+CRW-0171,Maria Lopez,Chief Cook,Catering,Passenger Ship,On Vacation,2025-12-31,2026-10-03,2027-01-27,2026-11-27,2027-02-06,2027-03-16,11,2024-10-21,227,166,237,275,111,166,Low Risk,Needs Review
+CRW-0172,Ryan Fernandez,Chief Cook,Catering,Offshore Support Vessel,For Deployment,2025-09-12,2026-04-09,2027-03-07,2028-08-06,2027-03-06,2027-03-25,10,2026-01-11,266,784,265,284,-66,265,Low Risk,Ready
+CRW-0173,Miguel Castillo,Safety Officer,Offshore,Passenger Ship,For Deployment,2025-12-19,2026-05-08,2026-11-18,2027-08-10,2027-02-16,2027-10-07,1,2025-10-08,157,422,247,480,-37,157,Low Risk,Ready
+CRW-0174,Grace Bautista,Electrician,Engine,Cable Layer,For Deployment,2026-03-21,2026-12-23,2027-06-08,2028-01-05,2027-01-30,2027-02-07,4,2026-03-25,359,570,230,238,192,230,Low Risk,Ready
+CRW-0175,Jose Garcia,Crane Operator,Offshore,General Cargo Vessel,Available,2025-11-27,2026-07-25,2026-07-15,2028-04-11,2026-10-17,2026-06-09,13,2024-10-29,31,667,125,-5,41,-5,Expired,Not Ready
+CRW-0176,Camille Ramos,Fourth Engineer,Engine,General Cargo Vessel,Pending Documents,2025-12-02,2026-06-13,2027-04-20,2026-07-14,2026-08-29,2028-04-01,9,2024-10-05,310,30,76,657,-1,30,High Risk,Not Ready
+CRW-0177,Jose Torres,Oiler,Engine,General Cargo Vessel,Not Ready,2026-02-14,2026-06-23,2026-12-14,2028-07-29,2027-10-19,2026-12-11,13,2024-04-09,183,776,492,180,9,180,Low Risk,Needs Review
+CRW-0178,Rhea Rivera,Chief Cook,Catering,Bulk Carrier,For Deployment,2025-11-25,2026-06-05,2027-01-12,2028-03-01,2027-10-17,2026-10-19,3,2024-12-15,212,626,490,127,-9,127,Low Risk,Ready
+CRW-0179,Maria Torres,Housekeeping Staff,Hotel,Container Vessel,Onboard,2026-01-04,2026-06-20,2026-06-01,2028-06-07,2027-05-10,2027-04-02,14,2024-10-11,-13,724,330,292,6,-13,Expired,Not Ready
+CRW-0180,Kristine Morales,Second Engineer,Engine,Cable Layer,Not Ready,2025-11-29,2026-04-20,2026-12-16,2028-03-30,2026-09-04,2026-12-10,16,2025-12-23,185,655,82,179,-55,82,Low Risk,Needs Review
+CRW-0181,Luis Navarro,Housekeeping Staff,Hotel,Container Vessel,Onboard,2025-09-29,2026-04-05,2026-11-09,2027-03-20,2026-06-10,2027-02-26,7,2024-07-15,148,279,-4,257,-70,-4,Expired,Not Ready
+CRW-0182,Carlo Dela Cruz,Messman,Catering,Container Vessel,Onboard,2026-02-23,2026-10-04,2027-05-11,2027-10-11,2027-04-13,2028-05-10,9,2026-01-15,331,484,303,696,112,303,Low Risk,Needs Review
+CRW-0183,John Mendoza,Cook,Catering,Cable Layer,Available,2026-02-26,2026-10-20,2027-06-11,2028-01-25,2027-06-16,2027-08-03,15,2024-05-27,362,590,367,415,128,362,Low Risk,Ready
+CRW-0184,Ryan Flores,Safety Officer,Offshore,Cable Layer,Not Ready,2026-04-04,2026-12-14,2027-01-08,2027-11-06,2027-06-04,2026-08-22,19,2024-10-15,208,510,355,69,183,69,Low Risk,Needs Review
+CRW-0185,Ryan Perez,Captain,Deck,Cable Layer,On Vacation,2026-02-28,2026-08-09,2026-11-08,2028-10-05,2027-08-25,2026-10-01,17,2024-06-18,147,844,437,109,56,109,Low Risk,Needs Review
+CRW-0186,Mark Gonzales,Wiper,Engine,Cable Layer,Pending Documents,2026-04-17,2026-12-09,2026-07-31,2027-10-22,2027-07-29,2027-09-14,14,2024-10-15,47,495,410,457,178,47,Medium Risk,Needs Review
+CRW-0187,Rafael Santos,Able Seaman,Deck,Passenger Ship,Not Ready,2026-01-05,2026-05-05,2027-06-10,2026-12-24,2026-08-12,2026-07-20,12,2025-03-08,361,193,59,36,-40,36,Medium Risk,Needs Review
+CRW-0188,Jose Cruz,Messman,Catering,Bulk Carrier,On Vacation,2026-04-29,2026-11-08,2026-12-20,2026-11-15,2026-10-15,2028-03-21,15,2024-04-29,189,154,123,646,147,123,Low Risk,Needs Review
+CRW-0189,Kristine Navarro,Housekeeping Staff,Hotel,Passenger Ship,Pending Documents,2026-03-08,2026-12-20,2026-11-19,2026-09-13,2026-11-28,2027-12-06,2,2025-04-08,158,91,167,540,189,91,Low Risk,Needs Review
+CRW-0190,Juan Santos,Crane Operator,Offshore,General Cargo Vessel,Available,2025-09-20,2026-07-09,2027-05-28,2027-11-23,2027-08-07,2027-11-30,9,2025-04-22,348,527,419,534,25,348,Low Risk,Ready
+CRW-0191,Miguel Bautista,Second Engineer,Engine,Passenger Ship,For Deployment,2026-03-19,2026-07-25,2027-04-28,2027-07-18,2026-06-15,2027-02-05,6,2025-10-16,318,399,1,236,41,1,High Risk,Not Ready
+CRW-0192,Jessa Rivera,Captain,Deck,Cable Layer,Onboard,2026-01-10,2026-05-21,2026-12-16,2027-08-07,2027-01-24,2027-12-08,1,2025-10-05,185,419,224,542,-24,185,Low Risk,Needs Review
+CRW-0193,John Perez,Chief Mate,Deck,Cable Layer,For Deployment,2025-12-02,2026-05-31,2026-10-26,2028-10-28,2026-10-23,2028-04-10,10,2024-11-28,134,867,131,666,-14,131,Low Risk,Ready
+CRW-0194,Jose Lopez,Fourth Engineer,Engine,Offshore Support Vessel,For Deployment,2026-02-15,2026-11-22,2027-05-07,2027-07-26,2027-10-19,2026-07-22,18,2025-05-28,327,407,492,38,161,38,Medium Risk,Needs Review
+CRW-0195,Angela Morales,Laundry Staff,Hotel,Offshore Support Vessel,Not Ready,2025-12-13,2026-07-17,2026-08-27,2028-06-25,2027-09-26,2027-02-05,4,2023-12-28,74,742,469,236,33,74,Low Risk,Needs Review
+CRW-0196,Jessa Reyes,Third Engineer,Engine,General Cargo Vessel,Available,2025-10-16,2026-05-30,2027-03-06,2027-11-08,2026-10-14,2027-07-06,17,2025-09-09,265,512,122,387,-15,122,Low Risk,Ready
+CRW-0197,Mark Dela Cruz,Chief Cook,Catering,Offshore Support Vessel,Not Ready,2026-03-29,2026-12-11,2027-05-30,2028-09-10,2026-12-11,2026-07-26,11,2025-08-14,350,819,180,42,180,42,Medium Risk,Needs Review
+CRW-0198,Jose Cruz,Laundry Staff,Hotel,Cable Layer,On Vacation,2026-01-24,2026-09-23,2026-09-08,2028-10-21,2027-05-05,2027-04-10,6,2026-04-30,86,860,325,300,101,86,Low Risk,Needs Review
+CRW-0199,Camille Flores,Second Engineer,Engine,General Cargo Vessel,Onboard,2026-01-31,2026-09-09,2026-09-24,2027-12-01,2027-04-24,2027-03-20,19,2025-04-21,102,535,314,279,87,102,Low Risk,Needs Review
+CRW-0200,Rafael Bautista,Laundry Staff,Hotel,General Cargo Vessel,For Deployment,2025-08-26,2026-04-30,2027-01-18,2026-08-23,2027-09-22,2027-04-27,11,2025-10-19,218,70,465,317,-45,70,Low Risk,Ready
+CRW-0201,Rhea Flores,Cook,Catering,Passenger Ship,Onboard,2026-05-07,2026-11-09,2027-03-04,2028-01-03,2027-07-31,2027-04-02,4,2025-12-10,263,568,412,292,148,263,Low Risk,Needs Review
+CRW-0202,Rhea Flores,Third Engineer,Engine,Container Vessel,Pending Documents,2025-11-24,2026-05-28,2027-01-30,2028-05-24,2027-10-14,2027-09-18,15,2025-11-24,230,710,487,461,-17,230,Low Risk,Needs Review
+CRW-0203,Grace Fernandez,Chief Cook,Catering,Container Vessel,Not Ready,2026-04-15,2026-12-25,2026-06-11,2028-09-20,2026-08-14,2028-04-18,5,2026-03-27,-3,829,61,674,194,-3,Expired,Not Ready
+CRW-0204,John Cruz,Third Mate,Deck,Container Vessel,Not Ready,2026-05-11,2026-11-02,2027-02-07,2027-08-24,2027-06-16,2026-08-04,4,2024-08-21,238,436,367,51,141,51,Medium Risk,Needs Review
+CRW-0205,Juan Santos,Safety Officer,Offshore,General Cargo Vessel,Pending Documents,2025-10-17,2026-02-17,2026-06-02,2027-11-08,2027-03-07,2027-12-04,17,2025-07-26,-12,512,266,538,-117,-12,Expired,Not Ready
+CRW-0206,Angela Torres,Able Seaman,Deck,General Cargo Vessel,Not Ready,2026-03-27,2026-12-06,2026-08-09,2027-01-16,2026-12-12,2028-02-28,3,2024-11-22,56,216,181,624,175,56,Medium Risk,Needs Review
+CRW-0207,Mark Aquino,Cook,Catering,Offshore Support Vessel,Pending Documents,2025-09-22,2026-06-13,2026-09-26,2028-04-27,2027-01-16,2027-04-07,12,2024-06-14,104,683,216,297,-1,104,Low Risk,Needs Review
+CRW-0208,Mark Navarro,Ordinary Seaman,Deck,General Cargo Vessel,Onboard,2025-11-03,2026-07-22,2027-01-23,2026-07-11,2026-06-08,2028-05-23,12,2025-11-21,223,27,-6,709,38,-6,Expired,Not Ready
+CRW-0209,Maria Perez,Third Mate,Deck,Passenger Ship,Not Ready,2025-08-18,2025-12-26,2026-09-19,2026-12-17,2027-09-28,2027-03-08,3,2026-03-29,97,186,471,267,-170,97,Low Risk,Needs Review
+CRW-0210,Rhea Reyes,Ordinary Seaman,Deck,Offshore Support Vessel,On Vacation,2025-12-05,2026-04-08,2026-09-08,2028-01-06,2026-10-24,2028-06-02,5,2024-01-26,86,571,132,719,-67,86,Low Risk,Needs Review
+CRW-0211,Rhea Flores,Steward,Hotel,Offshore Support Vessel,Available,2025-10-28,2026-08-17,2027-02-25,2027-04-19,2027-06-27,2026-10-25,18,2024-02-26,256,309,378,133,64,133,Low Risk,Ready
+CRW-0212,Jose Garcia,Able Seaman,Deck,General Cargo Vessel,For Deployment,2026-01-17,2026-06-05,2026-11-15,2028-01-24,2027-07-10,2027-05-04,13,2026-04-15,154,589,391,324,-9,154,Low Risk,Ready
+CRW-0213,Ana Lopez,Cook,Catering,Passenger Ship,Available,2025-10-06,2026-03-22,2027-05-08,2028-01-04,2027-06-23,2026-08-30,12,2024-03-16,328,569,374,77,-84,77,Low Risk,Ready
+CRW-0214,Mark Cruz,Rigger,Offshore,Container Vessel,Not Ready,2026-02-26,2026-10-01,2027-05-24,2028-07-25,2026-11-03,2027-07-07,8,2025-06-25,344,772,142,388,109,142,Low Risk,Needs Review
+CRW-0215,Rafael Dela Cruz,Chief Cook,Catering,Bulk Carrier,Onboard,2025-12-28,2026-05-23,2026-07-31,2026-08-12,2026-12-07,2027-08-19,11,2025-02-10,47,59,176,431,-22,47,Medium Risk,Needs Review
+CRW-0216,Mark Aquino,Safety Officer,Offshore,Bulk Carrier,Onboard,2026-03-29,2026-12-26,2027-03-27,2028-07-26,2027-04-27,2027-07-03,17,2026-05-03,286,773,317,384,195,286,Low Risk,Needs Review
+CRW-0217,Grace Flores,Cook,Catering,Passenger Ship,Onboard,2025-08-22,2026-02-01,2027-05-10,2027-06-08,2026-11-19,2026-10-24,18,2025-08-13,330,359,158,132,-133,132,Low Risk,Needs Review
+CRW-0218,Mark Torres,Cook,Catering,Passenger Ship,Available,2025-12-25,2026-08-09,2026-10-25,2027-09-22,2026-08-16,2027-06-08,13,2025-08-31,133,465,63,359,56,63,Low Risk,Ready
+CRW-0219,Michelle Rivera,Wiper,Engine,General Cargo Vessel,Pending Documents,2025-09-23,2026-02-17,2026-08-02,2027-03-22,2026-06-05,2027-07-14,6,2025-06-09,49,281,-9,395,-117,-9,Expired,Not Ready
+CRW-0220,Maria Morales,Safety Officer,Offshore,Offshore Support Vessel,Pending Documents,2026-03-07,2026-09-19,2026-11-05,2028-01-22,2026-12-21,2027-10-07,20,2025-06-28,144,587,190,480,97,144,Low Risk,Needs Review
+CRW-0221,Camille Perez,Fourth Engineer,Engine,Offshore Support Vessel,For Deployment,2025-11-30,2026-07-04,2026-10-15,2028-08-28,2027-07-06,2027-06-12,7,2026-01-19,123,806,387,363,20,123,Low Risk,Ready
+CRW-0222,Paolo Lopez,Crane Operator,Offshore,Cable Layer,On Vacation,2025-09-21,2026-03-13,2027-01-04,2028-08-08,2027-03-24,2028-05-13,0,2026-03-06,204,786,283,699,-93,204,Low Risk,Needs Review
+CRW-0223,Rafael Flores,Laundry Staff,Hotel,Passenger Ship,Available,2026-02-26,2026-10-12,2026-12-04,2026-07-29,2027-09-01,2028-02-06,8,2025-01-10,173,45,444,602,120,45,Medium Risk,Needs Review
+CRW-0224,Angela Lopez,Safety Officer,Offshore,Cable Layer,On Vacation,2025-11-12,2026-09-07,2027-02-23,2028-01-13,2026-08-25,2026-09-23,1,2024-03-19,254,578,72,101,85,72,Low Risk,Needs Review
+CRW-0225,Paolo Rivera,Wiper,Engine,General Cargo Vessel,For Deployment,2025-10-23,2026-05-15,2026-12-31,2026-08-31,2026-06-09,2026-09-12,1,2025-08-24,200,78,-5,90,-30,-5,Expired,Not Ready
+CRW-0226,Grace Perez,Oiler,Engine,General Cargo Vessel,On Vacation,2026-01-22,2026-09-13,2026-12-02,2027-06-19,2027-09-16,2028-04-29,18,2024-09-20,171,370,459,685,91,171,Low Risk,Needs Review
+CRW-0227,Camille Garcia,Crane Operator,Offshore,Offshore Support Vessel,Onboard,2025-10-15,2026-03-05,2026-07-23,2028-09-12,2026-10-22,2027-05-26,9,2025-06-30,39,821,130,346,-101,39,Medium Risk,Needs Review
+CRW-0228,Camille Aquino,Cook,Catering,Container Vessel,On Vacation,2026-03-27,2026-11-14,2027-05-29,2028-04-27,2027-09-05,2027-04-26,15,2026-03-08,349,683,448,316,153,316,Low Risk,Needs Review
+CRW-0229,Juan Villanueva,Chief Cook,Catering,General Cargo Vessel,Onboard,2026-03-21,2027-01-08,2026-08-17,2028-06-11,2027-02-03,2027-11-14,20,2025-11-18,64,728,234,518,208,64,Low Risk,Needs Review
+CRW-0230,Angela Dela Cruz,Crane Operator,Offshore,Offshore Support Vessel,On Vacation,2025-10-20,2026-07-28,2026-08-27,2026-11-21,2027-08-15,2027-07-14,7,2026-04-16,74,160,427,395,44,74,Low Risk,Needs Review
+CRW-0231,Angela Navarro,Crane Operator,Offshore,Passenger Ship,On Vacation,2026-01-26,2026-07-17,2026-10-14,2028-06-23,2026-08-02,2028-01-16,0,2026-01-31,122,740,49,581,33,49,Medium Risk,Needs Review
+CRW-0232,Ryan Dela Cruz,Crane Operator,Offshore,Offshore Support Vessel,For Deployment,2026-01-01,2026-10-19,2027-01-30,2027-11-06,2027-04-15,2028-02-05,3,2025-04-13,230,510,305,601,127,230,Low Risk,Ready
+CRW-0233,Ana Aquino,Safety Officer,Offshore,Cable Layer,Onboard,2026-02-16,2026-12-05,2027-05-21,2028-08-11,2027-03-30,2028-02-23,14,2024-09-18,341,789,289,619,174,289,Low Risk,Needs Review
+CRW-0234,Carlo Flores,Ordinary Seaman,Deck,Container Vessel,For Deployment,2026-03-17,2026-08-30,2026-12-02,2028-04-24,2026-10-21,2027-11-09,9,2025-04-13,171,680,129,513,77,129,Low Risk,Ready
+CRW-0235,Kristine Morales,Laundry Staff,Hotel,Container Vessel,On Vacation,2025-09-08,2026-06-17,2027-02-24,2028-04-24,2026-11-23,2027-12-24,5,2025-11-26,255,680,162,558,3,162,Low Risk,Needs Review
+CRW-0236,Maria Dela Cruz,Housekeeping Staff,Hotel,Container Vessel,Available,2026-04-18,2026-11-15,2026-05-29,2027-09-23,2026-10-16,2026-12-20,19,2024-02-01,-16,466,124,189,154,-16,Expired,Not Ready
+CRW-0237,Camille Morales,Laundry Staff,Hotel,Cable Layer,Not Ready,2025-10-15,2026-06-05,2027-01-30,2026-11-02,2026-08-22,2028-01-03,15,2026-04-14,230,141,69,568,-9,69,Low Risk,Needs Review
+CRW-0238,John Lopez,Third Engineer,Engine,Bulk Carrier,For Deployment,2026-02-18,2026-10-13,2027-03-10,2028-06-13,2027-10-19,2027-12-18,9,2024-12-08,269,730,492,552,121,269,Low Risk,Ready
+CRW-0239,Grace Aquino,Able Seaman,Deck,Bulk Carrier,For Deployment,2026-04-24,2026-12-12,2027-02-28,2026-12-24,2027-08-08,2026-09-16,17,2024-04-22,259,193,420,94,181,94,Low Risk,Ready
+CRW-0240,Luis Aquino,Third Engineer,Engine,Bulk Carrier,Pending Documents,2025-10-03,2026-03-02,2026-09-23,2026-12-15,2027-05-24,2028-05-31,2,2024-08-29,101,184,344,717,-104,101,Low Risk,Needs Review
+CRW-0241,Ryan Ramos,Steward,Hotel,Cable Layer,Available,2025-11-17,2026-07-31,2026-10-15,2028-01-16,2026-11-18,2027-05-01,1,2024-05-25,123,581,157,321,47,123,Low Risk,Ready
+CRW-0242,Nicole Garcia,Cook,Catering,Cable Layer,For Deployment,2025-10-17,2026-03-01,2026-10-13,2028-10-18,2026-10-06,2028-05-22,4,2025-12-31,121,857,114,708,-105,114,Low Risk,Ready
+CRW-0243,John Navarro,Second Engineer,Engine,General Cargo Vessel,For Deployment,2026-03-04,2026-11-26,2027-04-13,2027-02-14,2027-07-28,2027-06-23,15,2025-02-07,303,245,409,374,165,245,Low Risk,Ready
+CRW-0244,Nicole Bautista,Ordinary Seaman,Deck,Bulk Carrier,Pending Documents,2025-09-25,2026-05-27,2026-11-08,2027-12-31,2026-06-01,2026-09-07,11,2024-04-27,147,565,-13,85,-18,-13,Expired,Not Ready
+CRW-0245,Ana Cruz,Laundry Staff,Hotel,General Cargo Vessel,Not Ready,2025-10-24,2026-04-17,2026-12-30,2028-09-05,2027-01-01,2027-10-23,17,2025-08-14,199,814,201,496,-58,199,Low Risk,Needs Review
+CRW-0246,Rhea Mendoza,Cook,Catering,Offshore Support Vessel,On Vacation,2025-09-09,2026-04-04,2027-05-09,2028-07-03,2026-07-18,2026-07-21,18,2026-02-03,329,750,34,37,-71,34,Medium Risk,Needs Review
+CRW-0247,Jessa Dela Cruz,Steward,Hotel,Bulk Carrier,Available,2025-10-08,2026-03-28,2027-05-12,2026-09-27,2027-04-04,2026-11-13,0,2025-08-08,332,105,294,152,-78,105,Low Risk,Ready
+CRW-0248,Mark Aquino,Ordinary Seaman,Deck,Offshore Support Vessel,For Deployment,2026-02-20,2026-07-03,2026-12-13,2028-02-14,2027-04-07,2028-05-20,20,2024-04-02,182,610,297,706,19,182,Low Risk,Ready
+CRW-0249,Carlo Santos,Fourth Engineer,Engine,General Cargo Vessel,Onboard,2025-09-13,2026-01-30,2026-07-31,2028-01-12,2027-01-16,2027-11-17,6,2024-06-18,47,577,216,521,-135,47,Medium Risk,Needs Review
+CRW-0250,Maria Garcia,Steward,Hotel,Bulk Carrier,Not Ready,2026-03-09,2026-11-06,2026-06-30,2027-01-04,2027-06-26,2026-09-03,13,2024-04-27,16,204,377,81,145,16,High Risk,Not Ready
+CRW-0251,Rafael Mendoza,Captain,Deck,Offshore Support Vessel,For Deployment,2026-03-08,2026-12-17,2027-05-06,2026-10-08,2026-08-08,2027-11-29,12,2024-10-16,326,116,55,533,186,55,Medium Risk,Needs Review
+CRW-0252,Jessa Aquino,Able Seaman,Deck,General Cargo Vessel,Available,2026-02-27,2026-10-10,2027-04-05,2028-04-17,2027-08-26,2027-01-12,6,2026-02-16,295,673,438,212,118,212,Low Risk,Ready
+CRW-0253,Kristine Aquino,Chief Mate,Deck,Bulk Carrier,On Vacation,2025-12-05,2026-05-09,2026-09-28,2027-02-22,2026-08-24,2027-02-13,13,2024-10-26,106,253,71,244,-36,71,Low Risk,Needs Review
+CRW-0254,Rafael Ramos,Rigger,Offshore,General Cargo Vessel,Onboard,2025-08-28,2026-02-12,2027-06-11,2027-06-20,2027-03-28,2028-03-26,16,2026-03-21,362,371,287,651,-122,287,Low Risk,Needs Review
+CRW-0255,John Fernandez,Fourth Engineer,Engine,Passenger Ship,Onboard,2026-04-09,2026-12-20,2026-05-31,2027-05-19,2027-04-19,2026-10-17,20,2025-04-14,-14,339,309,125,189,-14,Expired,Not Ready
+CRW-0256,Paolo Fernandez,Safety Officer,Offshore,Offshore Support Vessel,On Vacation,2026-05-07,2027-02-01,2026-06-28,2026-05-29,2027-02-22,2027-01-10,2,2026-04-05,14,-16,253,210,232,-16,Expired,Not Ready
+CRW-0257,Rafael Gonzales,Bosun,Deck,Passenger Ship,On Vacation,2025-10-11,2026-08-06,2026-12-16,2026-08-07,2026-11-02,2027-03-15,13,2026-02-19,185,54,141,274,53,54,Medium Risk,Needs Review
+CRW-0258,Miguel Lopez,Chief Cook,Catering,Cable Layer,Available,2025-10-27,2026-07-24,2027-04-14,2028-07-04,2026-08-05,2027-04-17,10,2024-05-30,304,751,52,307,40,52,Medium Risk,Needs Review
+CRW-0259,John Cruz,Laundry Staff,Hotel,Container Vessel,Onboard,2026-03-17,2026-11-08,2027-04-03,2028-01-28,2026-07-25,2027-04-16,13,2024-07-02,293,593,41,306,147,41,Medium Risk,Needs Review
+CRW-0260,Miguel Santos,Chief Engineer,Engine,Bulk Carrier,Not Ready,2025-09-03,2026-03-30,2027-02-16,2027-10-26,2027-02-19,2026-11-21,5,2025-04-30,247,499,250,160,-76,160,Low Risk,Needs Review
+CRW-0261,Carlo Santos,Wiper,Engine,Offshore Support Vessel,Not Ready,2025-10-08,2026-04-15,2027-02-17,2026-07-19,2027-02-23,2028-06-02,10,2024-10-02,248,35,254,719,-60,35,Medium Risk,Needs Review
+CRW-0262,Ana Reyes,Third Mate,Deck,Passenger Ship,On Vacation,2026-02-19,2026-09-21,2026-08-13,2027-01-31,2026-09-12,2028-01-12,15,2024-06-24,60,231,90,577,99,60,Medium Risk,Needs Review
+CRW-0263,Juan Reyes,Chief Mate,Deck,General Cargo Vessel,On Vacation,2026-01-10,2026-05-21,2027-01-21,2027-05-22,2027-06-26,2026-11-04,0,2025-11-13,221,342,377,143,-24,143,Low Risk,Needs Review
+CRW-0264,Angela Flores,Able Seaman,Deck,General Cargo Vessel,Not Ready,2026-01-08,2026-08-22,2027-05-28,2027-04-07,2027-03-03,2026-08-22,10,2024-10-07,348,297,262,69,69,69,Low Risk,Needs Review
+CRW-0265,Jose Torres,Chief Cook,Catering,Cable Layer,Not Ready,2025-08-24,2026-01-02,2026-12-16,2026-07-24,2027-09-18,2027-03-20,7,2024-03-14,185,40,461,279,-163,40,Medium Risk,Needs Review
+CRW-0266,Jessa Santos,Cook,Catering,Bulk Carrier,On Vacation,2026-02-02,2026-08-15,2027-03-09,2028-07-26,2027-04-06,2028-03-02,11,2025-09-09,268,773,296,627,62,268,Low Risk,Needs Review
+CRW-0267,Ryan Lopez,Housekeeping Staff,Hotel,Cable Layer,Pending Documents,2026-02-27,2026-06-28,2026-12-20,2026-06-08,2027-01-23,2027-12-10,7,2025-05-26,189,-6,223,544,14,-6,Expired,Not Ready
+CRW-0268,Kristine Castillo,Second Mate,Deck,Bulk Carrier,Not Ready,2026-01-30,2026-10-12,2026-09-23,2027-07-18,2027-10-15,2026-08-04,3,2025-12-21,101,399,488,51,120,51,Medium Risk,Needs Review
+CRW-0269,Nicole Morales,Chief Cook,Catering,Bulk Carrier,Available,2025-09-23,2026-02-11,2027-03-18,2026-08-20,2026-10-13,2028-03-17,11,2024-01-27,277,67,121,642,-123,67,Low Risk,Ready
+CRW-0270,Jose Morales,Steward,Hotel,Cable Layer,On Vacation,2026-01-14,2026-07-27,2026-10-05,2028-10-02,2027-04-17,2027-07-11,4,2024-05-28,113,841,307,392,43,113,Low Risk,Needs Review
+CRW-0271,John Cruz,Cook,Catering,Passenger Ship,For Deployment,2026-03-07,2026-12-01,2026-07-19,2026-10-21,2026-09-15,2026-11-19,6,2025-02-09,35,129,93,158,170,35,Medium Risk,Needs Review
+CRW-0272,Grace Aquino,Housekeeping Staff,Hotel,Passenger Ship,Onboard,2025-09-26,2026-04-12,2027-01-17,2027-02-10,2026-09-29,2026-09-04,6,2025-12-05,217,241,107,82,-63,82,Low Risk,Needs Review
+CRW-0273,Jose Ramos,Messman,Catering,General Cargo Vessel,On Vacation,2026-03-01,2026-07-22,2027-05-24,2027-01-24,2027-05-29,2027-07-14,10,2024-12-06,344,224,349,395,38,224,Low Risk,Needs Review
+CRW-0274,Paolo Santos,Ordinary Seaman,Deck,Offshore Support Vessel,For Deployment,2025-09-26,2026-06-15,2027-06-12,2027-11-29,2027-02-09,2026-09-08,12,2025-01-27,363,533,240,86,1,86,Low Risk,Ready
+CRW-0275,Juan Reyes,Bosun,Deck,Container Vessel,Onboard,2026-03-10,2026-08-27,2026-12-16,2027-05-31,2026-08-24,2028-01-21,7,2024-09-22,185,351,71,586,74,71,Low Risk,Needs Review
+CRW-0276,Ryan Dela Cruz,Chief Cook,Catering,Bulk Carrier,Onboard,2026-03-29,2026-10-19,2026-07-26,2026-06-27,2027-09-14,2026-07-25,4,2025-11-24,42,13,457,41,127,13,High Risk,Not Ready
+CRW-0277,Camille Santos,Safety Officer,Offshore,General Cargo Vessel,Pending Documents,2025-10-09,2026-03-22,2026-11-22,2026-12-20,2026-12-07,2027-03-12,12,2025-08-02,161,189,176,271,-84,161,Low Risk,Needs Review
+CRW-0278,Michelle Rivera,Steward,Hotel,Bulk Carrier,On Vacation,2025-12-15,2026-08-19,2026-12-21,2028-11-03,2027-10-02,2026-08-05,7,2026-02-15,190,873,475,52,66,52,Medium Risk,Needs Review
+CRW-0279,Ryan Gonzales,Cook,Catering,Container Vessel,Pending Documents,2026-05-06,2026-12-09,2027-05-25,2027-05-17,2027-10-03,2027-12-13,7,2024-03-06,345,337,476,547,178,337,Low Risk,Needs Review
+CRW-0280,Maria Navarro,Housekeeping Staff,Hotel,Cable Layer,On Vacation,2026-02-12,2026-06-18,2026-11-04,2028-01-16,2027-01-09,2026-07-04,8,2024-02-05,143,581,209,20,4,20,High Risk,Not Ready
+CRW-0281,Ana Perez,Chief Cook,Catering,Passenger Ship,On Vacation,2026-02-23,2026-07-18,2026-09-28,2028-03-17,2027-01-31,2027-03-03,7,2024-11-15,106,642,231,262,34,106,Low Risk,Needs Review
+CRW-0282,Kristine Aquino,Bosun,Deck,Container Vessel,On Vacation,2026-02-14,2026-08-13,2027-03-24,2027-04-05,2027-06-01,2028-01-30,5,2026-04-17,283,295,352,595,60,283,Low Risk,Needs Review
+CRW-0283,Rhea Ramos,Messman,Catering,Cable Layer,Available,2025-12-08,2026-05-21,2027-01-31,2026-06-22,2026-08-30,2026-07-31,15,2025-09-19,231,8,77,47,-24,8,High Risk,Not Ready
+CRW-0284,Camille Santos,Crane Operator,Offshore,Bulk Carrier,On Vacation,2026-02-01,2026-07-04,2026-11-15,2028-05-18,2026-11-27,2027-05-01,10,2026-03-16,154,704,166,321,20,154,Low Risk,Needs Review
+CRW-0285,Miguel Garcia,Chief Mate,Deck,Cable Layer,Not Ready,2025-11-10,2026-03-28,2026-12-02,2028-05-05,2027-07-09,2028-01-25,16,2026-02-01,171,691,390,590,-78,171,Low Risk,Needs Review
+CRW-0286,Paolo Morales,Cook,Catering,Offshore Support Vessel,Available,2025-09-08,2026-06-21,2026-11-03,2026-11-09,2027-05-30,2027-01-18,20,2024-07-03,142,148,350,218,7,142,Low Risk,Ready
+CRW-0287,Rafael Mendoza,Crane Operator,Offshore,Passenger Ship,For Deployment,2026-05-15,2027-03-10,2027-03-14,2027-06-19,2026-07-02,2026-12-07,5,2024-09-06,273,370,18,176,269,18,High Risk,Not Ready
+CRW-0288,Rhea Garcia,Messman,Catering,Container Vessel,Not Ready,2026-03-04,2026-09-24,2027-06-10,2026-08-02,2027-01-28,2027-05-25,15,2025-06-22,361,49,228,345,102,49,Medium Risk,Needs Review
+CRW-0289,Maria Dela Cruz,Wiper,Engine,Bulk Carrier,Not Ready,2025-12-31,2026-06-22,2026-09-29,2028-04-23,2026-08-07,2027-05-28,0,2025-08-26,107,679,54,348,8,54,Medium Risk,Needs Review
+CRW-0290,Kristine Dela Cruz,Ordinary Seaman,Deck,Bulk Carrier,Onboard,2026-02-19,2026-10-02,2027-02-01,2028-11-02,2027-06-21,2027-05-29,13,2024-11-02,232,872,372,349,110,232,Low Risk,Needs Review
+CRW-0291,John Torres,Steward,Hotel,Passenger Ship,On Vacation,2026-04-08,2026-08-14,2026-10-22,2026-06-04,2027-04-21,2027-02-26,14,2026-01-28,130,-10,311,257,61,-10,Expired,Not Ready
+CRW-0292,Paolo Cruz,Second Mate,Deck,Container Vessel,Pending Documents,2026-03-29,2026-10-21,2027-03-25,2028-02-02,2027-10-06,2028-05-25,17,2026-04-14,284,598,479,711,129,284,Low Risk,Needs Review
+CRW-0293,Angela Torres,Laundry Staff,Hotel,Container Vessel,On Vacation,2026-03-25,2026-10-15,2026-09-07,2026-11-25,2027-07-23,2028-05-17,1,2024-10-25,85,164,404,703,123,85,Low Risk,Needs Review
+CRW-0294,Rafael Flores,Rigger,Offshore,General Cargo Vessel,For Deployment,2026-04-20,2026-11-26,2027-03-13,2027-11-28,2027-10-14,2026-11-08,3,2026-03-21,272,532,487,147,165,147,Low Risk,Ready
+CRW-0295,Rafael Rivera,Chief Cook,Catering,Passenger Ship,Onboard,2026-02-02,2026-06-26,2026-06-07,2026-12-12,2026-11-20,2028-03-18,15,2025-07-21,-7,181,159,643,12,-7,Expired,Not Ready
+CRW-0296,Kristine Fernandez,Third Mate,Deck,Bulk Carrier,For Deployment,2025-12-31,2026-05-23,2027-04-18,2027-11-23,2027-06-30,2026-12-10,15,2025-05-01,308,527,381,179,-22,179,Low Risk,Ready
+CRW-0297,Jose Bautista,Housekeeping Staff,Hotel,Container Vessel,Pending Documents,2025-09-19,2026-03-25,2026-09-17,2028-09-18,2027-03-01,2028-01-02,14,2026-03-13,95,827,260,567,-81,95,Low Risk,Needs Review
+CRW-0298,Carlo Cruz,Electrician,Engine,General Cargo Vessel,Not Ready,2025-10-16,2026-07-13,2026-09-18,2027-12-02,2026-07-31,2027-07-05,11,2024-01-28,96,536,47,386,29,47,Medium Risk,Needs Review
+CRW-0299,Camille Perez,Safety Officer,Offshore,Cable Layer,Not Ready,2025-09-14,2026-03-29,2026-07-04,2027-06-23,2026-07-04,2027-10-31,7,2024-10-08,20,374,20,504,-77,20,High Risk,Not Ready
+CRW-0300,Paolo Torres,Crane Operator,Offshore,Bulk Carrier,Pending Documents,2026-02-06,2026-07-08,2026-06-15,2027-07-22,2026-08-18,2028-05-03,6,2025-02-24,1,403,65,689,24,1,High Risk,Not Ready
+CRW-0301,Michelle Bautista,Electrician,Engine,General Cargo Vessel,Available,2026-04-11,2026-08-31,2026-12-09,2027-12-05,2027-07-10,2027-12-21,10,2025-06-16,178,539,391,555,78,178,Low Risk,Ready
+CRW-0302,Michelle Perez,Messman,Catering,Passenger Ship,Onboard,2025-10-13,2026-03-10,2026-12-23,2026-10-15,2026-10-28,2028-01-05,16,2024-09-20,192,123,136,570,-96,123,Low Risk,Needs Review
+CRW-0303,Carlo Castillo,Offshore Technician,Offshore,Bulk Carrier,On Vacation,2025-11-20,2026-07-03,2026-10-07,2027-06-11,2027-10-09,2028-01-10,17,2024-08-30,115,362,482,575,19,115,Low Risk,Needs Review
+CRW-0304,Kristine Mendoza,Steward,Hotel,Container Vessel,For Deployment,2025-10-22,2026-02-28,2026-12-13,2028-11-10,2027-05-04,2028-05-11,19,2025-09-14,182,880,324,697,-106,182,Low Risk,Ready
+CRW-0305,Ana Santos,Ordinary Seaman,Deck,Passenger Ship,For Deployment,2025-12-11,2026-06-28,2026-10-15,2028-09-24,2027-10-15,2028-05-16,10,2024-06-13,123,833,488,702,14,123,Low Risk,Ready
+CRW-0306,Rafael Dela Cruz,Bosun,Deck,Container Vessel,Available,2025-12-29,2026-08-12,2027-03-30,2028-03-06,2026-08-29,2026-12-13,10,2025-02-17,289,631,76,182,59,76,Low Risk,Ready
+CRW-0307,Camille Gonzales,Electrician,Engine,Passenger Ship,Not Ready,2026-04-17,2026-12-24,2026-08-14,2026-07-21,2027-04-13,2028-05-30,11,2024-12-13,61,37,303,716,193,37,Medium Risk,Needs Review
+CRW-0308,Juan Torres,Steward,Hotel,Cable Layer,On Vacation,2026-02-02,2026-06-16,2026-09-29,2026-06-17,2027-09-09,2026-07-25,6,2025-05-11,107,3,452,41,2,3,High Risk,Not Ready
+CRW-0309,Nicole Navarro,Third Engineer,Engine,Offshore Support Vessel,Pending Documents,2026-03-13,2027-01-01,2026-06-09,2027-01-17,2027-06-15,2027-10-17,20,2024-09-14,-5,217,366,490,201,-5,Expired,Not Ready
+CRW-0310,Grace Aquino,Steward,Hotel,Passenger Ship,On Vacation,2026-02-21,2026-08-26,2027-06-12,2028-09-11,2026-08-30,2027-03-22,11,2026-04-17,363,820,77,281,73,77,Low Risk,Needs Review
+CRW-0311,Ryan Flores,Steward,Hotel,Container Vessel,On Vacation,2026-01-20,2026-11-09,2026-09-07,2027-02-14,2027-07-23,2027-11-11,20,2026-04-25,85,245,404,515,148,85,Low Risk,Needs Review
+CRW-0312,Paolo Rivera,Third Mate,Deck,Container Vessel,Not Ready,2026-01-21,2026-07-24,2027-04-01,2028-08-16,2027-04-07,2028-06-02,0,2024-05-19,291,794,297,719,40,291,Low Risk,Needs Review
+CRW-0313,Jessa Bautista,Cook,Catering,Passenger Ship,For Deployment,2025-09-19,2026-04-04,2027-05-06,2027-10-30,2027-07-10,2028-01-23,6,2026-01-31,326,503,391,588,-71,326,Low Risk,Ready
+CRW-0314,Grace Rivera,Able Seaman,Deck,General Cargo Vessel,For Deployment,2025-12-22,2026-07-06,2027-05-10,2026-09-02,2027-10-05,2026-08-08,19,2025-06-05,330,80,478,55,22,55,Medium Risk,Needs Review
+CRW-0315,Luis Castillo,Messman,Catering,Offshore Support Vessel,For Deployment,2026-02-28,2026-11-07,2026-09-25,2028-11-21,2026-07-27,2028-02-08,6,2025-03-28,103,891,43,604,146,43,Medium Risk,Needs Review
+CRW-0316,Juan Fernandez,Messman,Catering,Container Vessel,Not Ready,2026-01-03,2026-08-18,2026-12-18,2027-06-16,2026-07-05,2028-01-22,9,2024-05-20,187,367,21,587,65,21,High Risk,Not Ready
+CRW-0317,John Lopez,Crane Operator,Offshore,Offshore Support Vessel,Not Ready,2025-09-14,2026-07-02,2026-11-24,2027-10-16,2027-04-02,2026-11-25,20,2024-01-06,163,489,292,164,18,163,Low Risk,Needs Review
+CRW-0318,Camille Mendoza,Crane Operator,Offshore,Offshore Support Vessel,Onboard,2026-02-11,2026-12-02,2026-11-12,2028-03-15,2026-08-29,2027-01-17,8,2025-05-17,151,640,76,217,171,76,Low Risk,Needs Review
+CRW-0319,Maria Aquino,Wiper,Engine,Offshore Support Vessel,Pending Documents,2025-12-16,2026-08-11,2026-07-24,2027-09-08,2026-07-23,2028-03-14,8,2024-09-25,40,451,39,639,58,39,Medium Risk,Needs Review
+CRW-0320,Nicole Garcia,Offshore Technician,Offshore,Passenger Ship,Available,2025-12-14,2026-07-27,2026-06-21,2028-10-22,2026-10-31,2026-10-22,12,2025-10-22,7,861,139,130,43,7,High Risk,Not Ready
+CRW-0321,Miguel Villanueva,Cook,Catering,Cable Layer,Pending Documents,2026-04-04,2026-12-04,2026-11-11,2028-02-20,2026-11-27,2027-04-20,5,2024-08-04,150,616,166,310,173,150,Low Risk,Needs Review
+CRW-0322,Ryan Torres,Captain,Deck,Passenger Ship,For Deployment,2026-02-23,2026-10-26,2026-07-09,2026-09-24,2027-08-17,2028-03-13,18,2025-03-02,25,102,429,638,134,25,High Risk,Not Ready
+CRW-0323,Juan Reyes,Housekeeping Staff,Hotel,Passenger Ship,Pending Documents,2026-02-02,2026-09-05,2026-06-01,2028-11-13,2027-04-24,2027-11-29,17,2025-11-01,-13,883,314,533,83,-13,Expired,Not Ready
+CRW-0324,John Flores,Ordinary Seaman,Deck,Bulk Carrier,Not Ready,2025-12-07,2026-05-09,2026-07-16,2027-06-11,2027-10-27,2028-01-27,11,2025-07-06,32,362,500,592,-36,32,Medium Risk,Needs Review
+CRW-0325,Rafael Dela Cruz,Chief Engineer,Engine,Bulk Carrier,For Deployment,2025-08-20,2026-03-14,2027-01-02,2028-11-09,2026-10-14,2027-05-20,16,2024-12-30,202,879,122,340,-92,122,Low Risk,Ready
+CRW-0326,Juan Flores,Chief Cook,Catering,Container Vessel,Pending Documents,2026-03-09,2026-08-30,2027-06-04,2026-06-06,2026-11-19,2026-10-08,7,2025-05-05,355,-8,158,116,77,-8,Expired,Not Ready
+CRW-0327,Grace Rivera,Third Mate,Deck,General Cargo Vessel,For Deployment,2026-04-21,2027-02-04,2026-07-19,2028-03-14,2026-06-19,2026-07-23,1,2024-06-08,35,639,5,39,235,5,High Risk,Not Ready
+CRW-0328,Carlo Lopez,Third Mate,Deck,Passenger Ship,Pending Documents,2025-09-15,2026-07-11,2026-08-11,2026-12-11,2026-06-08,2027-04-08,8,2025-03-11,58,180,-6,298,27,-6,Expired,Not Ready
+CRW-0329,Michelle Rivera,Ordinary Seaman,Deck,Cable Layer,For Deployment,2025-10-13,2026-03-08,2027-02-10,2028-05-20,2026-09-27,2027-03-20,4,2026-01-19,241,706,105,279,-98,105,Low Risk,Ready
+CRW-0330,Ryan Bautista,Third Mate,Deck,Container Vessel,On Vacation,2026-02-01,2026-08-31,2027-05-20,2027-07-08,2027-03-28,2026-11-15,16,2026-04-05,340,389,287,154,78,154,Low Risk,Needs Review
+CRW-0331,Camille Villanueva,Safety Officer,Offshore,Container Vessel,Not Ready,2026-05-14,2026-09-14,2027-05-03,2026-08-14,2026-09-20,2028-01-12,7,2024-06-29,323,61,98,577,92,61,Low Risk,Needs Review
+CRW-0332,Mark Garcia,Steward,Hotel,Bulk Carrier,On Vacation,2026-01-17,2026-09-10,2026-10-23,2027-02-09,2027-09-17,2026-07-25,8,2026-02-02,131,240,460,41,88,41,Medium Risk,Needs Review
+CRW-0333,Ana Villanueva,Electrician,Engine,Bulk Carrier,For Deployment,2026-03-17,2026-08-08,2026-06-17,2026-05-24,2026-10-18,2028-04-13,13,2024-07-22,3,-21,126,669,55,-21,Expired,Not Ready
+CRW-0334,Michelle Bautista,Third Engineer,Engine,Offshore Support Vessel,Pending Documents,2025-11-06,2026-06-01,2026-08-26,2026-09-08,2027-07-14,2027-07-18,2,2025-02-02,73,86,395,399,-13,73,Low Risk,Needs Review
+CRW-0335,Angela Torres,Cook,Catering,General Cargo Vessel,Pending Documents,2026-03-09,2027-01-01,2027-05-31,2026-07-14,2026-11-09,2026-09-18,3,2025-03-15,351,30,148,96,201,30,High Risk,Not Ready
+CRW-0336,Jessa Torres,Safety Officer,Offshore,Cable Layer,Not Ready,2025-11-02,2026-06-01,2027-04-03,2026-06-13,2026-10-10,2027-10-11,19,2025-01-01,293,-1,118,484,-13,-1,Expired,Not Ready
+CRW-0337,Mark Bautista,Third Mate,Deck,Passenger Ship,Onboard,2025-12-06,2026-04-08,2027-05-20,2028-10-20,2027-01-14,2028-04-19,20,2025-06-03,340,859,214,675,-67,214,Low Risk,Needs Review
+CRW-0338,John Fernandez,Offshore Technician,Offshore,Passenger Ship,Not Ready,2025-10-30,2026-04-06,2027-03-06,2028-11-13,2026-07-24,2026-06-15,11,2024-07-26,265,883,40,1,-69,1,High Risk,Not Ready
+CRW-0339,Paolo Cruz,Oiler,Engine,Passenger Ship,Pending Documents,2025-12-02,2026-06-01,2026-11-10,2027-02-23,2026-07-20,2027-11-05,15,2025-09-29,149,254,36,509,-13,36,Medium Risk,Needs Review
+CRW-0340,Mark Dela Cruz,Safety Officer,Offshore,Passenger Ship,Available,2025-09-28,2026-02-17,2027-02-04,2027-08-15,2027-04-18,2026-10-03,14,2024-12-22,235,427,308,111,-117,111,Low Risk,Ready
+CRW-0341,Jose Lopez,Captain,Deck,Passenger Ship,Pending Documents,2026-05-15,2026-10-05,2027-03-30,2028-02-07,2027-04-06,2027-11-06,17,2024-10-17,289,603,296,510,113,289,Low Risk,Needs Review
+CRW-0342,Maria Aquino,Wiper,Engine,General Cargo Vessel,Pending Documents,2026-01-21,2026-09-14,2026-11-10,2027-12-09,2027-09-26,2028-06-06,1,2024-07-12,149,543,469,723,92,149,Low Risk,Needs Review
+CRW-0343,Carlo Flores,Messman,Catering,Passenger Ship,Onboard,2025-11-22,2026-06-20,2027-04-14,2028-08-11,2027-03-24,2027-12-16,0,2024-11-27,304,789,283,550,6,283,Low Risk,Needs Review
+CRW-0344,Paolo Fernandez,Messman,Catering,Bulk Carrier,Onboard,2025-10-18,2026-03-14,2026-10-02,2028-01-30,2026-12-16,2026-12-13,4,2026-01-12,110,595,185,182,-92,110,Low Risk,Needs Review
+CRW-0345,Maria Garcia,Steward,Hotel,Passenger Ship,Available,2026-04-22,2027-01-29,2027-05-04,2028-01-07,2026-10-03,2027-09-08,13,2025-02-01,324,572,111,451,229,111,Low Risk,Ready
+CRW-0346,Nicole Reyes,Crane Operator,Offshore,Passenger Ship,Onboard,2025-10-06,2026-07-02,2027-01-27,2027-10-17,2026-11-27,2028-05-12,17,2024-09-30,227,490,166,698,18,166,Low Risk,Needs Review
+CRW-0347,Kristine Rivera,Wiper,Engine,Container Vessel,Onboard,2025-12-02,2026-08-08,2026-12-07,2027-07-17,2027-02-08,2027-03-11,19,2025-04-03,176,398,239,270,55,176,Low Risk,Needs Review
+CRW-0348,Miguel Morales,Cook,Catering,Passenger Ship,Available,2025-08-26,2026-03-10,2027-05-19,2027-11-26,2027-04-16,2028-06-01,19,2024-04-21,339,530,306,718,-96,306,Low Risk,Ready
+CRW-0349,Michelle Castillo,Crane Operator,Offshore,Container Vessel,Available,2026-03-09,2026-12-20,2026-08-24,2027-10-12,2027-04-25,2028-05-31,11,2026-01-17,71,485,315,717,189,71,Low Risk,Ready
+CRW-0350,Rhea Morales,Messman,Catering,Passenger Ship,On Vacation,2025-12-20,2026-08-05,2026-05-31,2027-11-01,2026-09-16,2026-06-29,17,2025-04-20,-14,505,94,15,52,-14,Expired,Not Ready
+CRW-0351,Ryan Bautista,Chief Engineer,Engine,General Cargo Vessel,Onboard,2025-12-20,2026-10-10,2026-09-30,2026-10-11,2026-08-01,2028-05-11,5,2024-03-03,108,119,48,697,118,48,Medium Risk,Needs Review
+CRW-0352,Ana Dela Cruz,Chief Cook,Catering,Cable Layer,Onboard,2026-01-21,2026-11-02,2027-03-08,2027-06-17,2027-01-28,2027-11-09,3,2024-03-03,267,368,228,513,141,228,Low Risk,Needs Review
+CRW-0353,Kristine Navarro,Messman,Catering,General Cargo Vessel,Onboard,2025-12-06,2026-08-24,2026-06-21,2026-05-28,2027-02-11,2026-12-28,13,2024-08-18,7,-17,242,197,71,-17,Expired,Not Ready
+CRW-0354,Ana Perez,Steward,Hotel,General Cargo Vessel,Not Ready,2026-02-04,2026-07-23,2026-10-22,2027-08-17,2026-11-27,2028-05-03,17,2026-02-28,130,429,166,689,39,130,Low Risk,Needs Review
+CRW-0355,Carlo Navarro,Second Engineer,Engine,General Cargo Vessel,On Vacation,2025-10-08,2026-04-17,2027-03-05,2027-02-09,2026-10-10,2026-11-15,1,2024-09-24,264,240,118,154,-58,118,Low Risk,Needs Review
+CRW-0356,Miguel Reyes,Chief Cook,Catering,Offshore Support Vessel,Pending Documents,2025-12-01,2026-08-30,2026-06-20,2028-07-15,2027-04-03,2027-10-19,4,2024-02-27,6,762,293,492,77,6,High Risk,Not Ready
+CRW-0357,Maria Gonzales,Rigger,Offshore,Bulk Carrier,Not Ready,2026-02-10,2026-10-21,2026-06-28,2028-07-28,2026-11-09,2027-08-03,7,2024-11-05,14,775,148,415,129,14,High Risk,Not Ready
+CRW-0358,John Ramos,Safety Officer,Offshore,Bulk Carrier,For Deployment,2025-11-27,2026-06-27,2026-10-22,2026-12-24,2027-09-28,2027-12-30,10,2024-01-23,130,193,471,564,13,130,Low Risk,Ready
+CRW-0359,Jessa Flores,Captain,Deck,General Cargo Vessel,For Deployment,2026-01-11,2026-05-21,2027-05-09,2028-11-06,2027-04-23,2027-06-29,20,2024-02-20,329,876,313,380,-24,313,Low Risk,Ready
+CRW-0360,Rafael Santos,Third Mate,Deck,Offshore Support Vessel,On Vacation,2025-11-05,2026-07-14,2027-02-09,2027-08-14,2027-10-10,2026-07-18,16,2025-07-16,240,426,483,34,30,34,Medium Risk,Needs Review
+CRW-0361,Carlo Torres,Third Engineer,Engine,Cable Layer,Onboard,2026-05-12,2027-02-16,2026-06-27,2026-12-16,2027-01-03,2028-05-05,17,2025-03-07,13,185,203,691,247,13,High Risk,Not Ready
+CRW-0362,Angela Cruz,Chief Mate,Deck,Cable Layer,Not Ready,2026-05-03,2026-12-26,2027-05-27,2027-04-19,2026-07-07,2026-09-01,4,2026-03-01,347,309,23,79,195,23,High Risk,Not Ready
+CRW-0363,Mark Perez,Chief Mate,Deck,Offshore Support Vessel,On Vacation,2026-01-03,2026-08-15,2026-12-09,2027-08-19,2027-07-18,2027-08-21,7,2025-06-26,178,431,399,433,62,178,Low Risk,Needs Review
+CRW-0364,Grace Santos,Third Mate,Deck,General Cargo Vessel,Onboard,2026-04-13,2027-01-07,2026-06-17,2028-05-01,2026-08-12,2027-06-05,20,2024-12-17,3,687,59,356,207,3,High Risk,Not Ready
+CRW-0365,Michelle Cruz,Second Mate,Deck,General Cargo Vessel,For Deployment,2025-10-03,2026-05-08,2026-12-13,2028-09-02,2026-06-30,2027-10-02,9,2025-12-06,182,811,16,475,-37,16,High Risk,Not Ready
+CRW-0366,Kristine Lopez,Crane Operator,Offshore,Container Vessel,Not Ready,2026-03-03,2026-09-15,2027-05-06,2028-11-08,2027-06-16,2026-06-15,9,2024-10-26,326,878,367,1,93,1,High Risk,Not Ready
+CRW-0367,Juan Perez,Crane Operator,Offshore,Bulk Carrier,Onboard,2025-10-26,2026-07-10,2027-03-01,2026-08-10,2027-04-07,2027-01-05,19,2024-04-09,260,57,297,205,26,57,Medium Risk,Needs Review
+CRW-0368,Nicole Mendoza,Chief Cook,Catering,Passenger Ship,Not Ready,2026-02-10,2026-08-05,2027-04-05,2028-09-15,2027-02-12,2026-12-19,5,2026-01-18,295,824,243,188,52,188,Low Risk,Needs Review
+CRW-0369,Grace Dela Cruz,Wiper,Engine,Cable Layer,Onboard,2026-04-08,2026-10-19,2027-05-03,2026-07-22,2027-02-10,2026-09-12,20,2025-10-25,323,38,241,90,127,38,Medium Risk,Needs Review
+CRW-0370,Miguel Flores,Safety Officer,Offshore,Offshore Support Vessel,For Deployment,2025-12-21,2026-09-25,2026-06-29,2028-11-21,2026-12-14,2027-04-25,3,2025-01-03,15,891,183,315,103,15,High Risk,Not Ready
+CRW-0371,Rafael Perez,Housekeeping Staff,Hotel,Cable Layer,Not Ready,2025-11-10,2026-05-29,2026-12-30,2026-11-03,2026-06-03,2027-04-20,4,2025-09-05,199,142,-11,310,-16,-11,Expired,Not Ready
+CRW-0372,Angela Bautista,Wiper,Engine,General Cargo Vessel,Not Ready,2026-03-08,2026-12-26,2027-06-04,2027-04-19,2027-10-03,2027-09-20,11,2025-02-13,355,309,476,463,195,309,Low Risk,Needs Review
+CRW-0373,Carlo Torres,Cook,Catering,Passenger Ship,On Vacation,2026-04-04,2026-10-12,2026-08-04,2028-11-12,2026-12-17,2027-02-28,20,2024-04-24,51,882,186,259,120,51,Medium Risk,Needs Review
+CRW-0374,Nicole Santos,Ordinary Seaman,Deck,Bulk Carrier,Onboard,2025-10-20,2026-07-18,2026-09-10,2028-11-28,2026-07-06,2027-12-20,18,2025-08-22,88,898,22,554,34,22,High Risk,Not Ready
+CRW-0375,Ana Navarro,Safety Officer,Offshore,General Cargo Vessel,Available,2025-12-18,2026-05-21,2027-01-17,2027-10-10,2026-08-30,2027-07-15,7,2025-05-08,217,483,77,396,-24,77,Low Risk,Ready
+CRW-0376,Michelle Torres,Offshore Technician,Offshore,General Cargo Vessel,Available,2026-03-05,2026-10-25,2026-08-14,2026-11-14,2026-10-26,2027-10-12,16,2025-05-13,61,153,134,485,133,61,Low Risk,Ready
+CRW-0377,Mark Bautista,Chief Mate,Deck,Passenger Ship,Available,2026-01-16,2026-05-26,2027-05-02,2026-12-12,2027-06-03,2027-07-06,11,2025-01-20,322,181,354,387,-19,181,Low Risk,Ready
+CRW-0378,Maria Garcia,Steward,Hotel,Bulk Carrier,Not Ready,2025-12-26,2026-07-01,2027-03-17,2027-11-23,2026-11-24,2027-06-24,16,2024-07-15,276,527,163,375,17,163,Low Risk,Needs Review
+CRW-0379,Mark Gonzales,Housekeeping Staff,Hotel,Cable Layer,Not Ready,2025-11-04,2026-04-30,2027-02-13,2027-07-04,2027-05-26,2027-05-23,8,2025-01-02,244,385,346,343,-45,244,Low Risk,Needs Review
+CRW-0380,Miguel Dela Cruz,Laundry Staff,Hotel,Bulk Carrier,On Vacation,2026-01-18,2026-06-06,2027-02-12,2028-03-03,2027-03-13,2027-01-06,5,2025-12-13,243,628,272,206,-8,206,Low Risk,Needs Review
+CRW-0381,Carlo Flores,Second Engineer,Engine,Offshore Support Vessel,On Vacation,2025-11-27,2026-04-25,2027-01-26,2028-04-05,2027-10-02,2027-10-07,13,2025-10-12,226,661,475,480,-50,226,Low Risk,Needs Review
+CRW-0382,Juan Flores,Crane Operator,Offshore,General Cargo Vessel,Pending Documents,2026-03-11,2026-12-02,2027-03-24,2026-10-26,2026-10-14,2028-03-09,1,2024-12-07,283,134,122,634,171,122,Low Risk,Needs Review
+CRW-0383,Paolo Bautista,Able Seaman,Deck,Container Vessel,Onboard,2025-08-24,2026-04-04,2027-03-27,2027-12-13,2026-06-18,2028-06-09,5,2024-04-30,286,547,4,726,-71,4,High Risk,Not Ready
+CRW-0384,Michelle Fernandez,Chief Cook,Catering,Container Vessel,Pending Documents,2026-02-17,2026-08-12,2026-12-21,2028-01-20,2026-10-23,2028-01-21,15,2024-01-26,190,585,131,586,59,131,Low Risk,Needs Review
+CRW-0385,Luis Torres,Oiler,Engine,General Cargo Vessel,On Vacation,2025-09-25,2026-06-24,2027-03-23,2026-07-24,2027-01-20,2027-06-26,10,2025-04-16,282,40,220,377,10,40,Medium Risk,Needs Review
+CRW-0386,Nicole Gonzales,Chief Engineer,Engine,Bulk Carrier,Available,2026-02-28,2026-11-30,2026-07-13,2026-11-12,2027-09-29,2028-02-23,13,2024-09-08,29,151,472,619,169,29,High Risk,Not Ready
+CRW-0387,Carlo Cruz,Bosun,Deck,Cable Layer,On Vacation,2026-03-10,2026-12-09,2027-02-25,2028-09-08,2026-05-31,2028-04-28,15,2024-07-20,256,817,-14,684,178,-14,Expired,Not Ready
+CRW-0388,Jose Gonzales,Laundry Staff,Hotel,Passenger Ship,For Deployment,2026-01-18,2026-09-18,2026-12-06,2027-05-08,2026-09-07,2027-08-13,13,2025-12-29,175,328,85,425,96,85,Low Risk,Ready
+CRW-0389,Rafael Rivera,Cook,Catering,Container Vessel,Onboard,2025-10-18,2026-04-21,2026-08-29,2026-05-20,2026-06-06,2028-01-16,17,2024-11-26,76,-25,-8,581,-54,-25,Expired,Not Ready
+CRW-0390,Ryan Villanueva,Able Seaman,Deck,Bulk Carrier,Pending Documents,2025-11-11,2026-04-07,2026-08-12,2027-07-25,2027-02-13,2027-02-26,13,2024-11-13,59,406,244,257,-68,59,Medium Risk,Needs Review
+CRW-0391,Luis Navarro,Laundry Staff,Hotel,Offshore Support Vessel,On Vacation,2025-10-16,2026-07-04,2027-03-06,2027-09-21,2026-11-29,2027-06-18,6,2024-10-20,265,464,168,369,20,168,Low Risk,Needs Review
+CRW-0392,Rhea Aquino,Safety Officer,Offshore,Offshore Support Vessel,For Deployment,2026-03-06,2026-12-19,2026-07-24,2028-06-18,2027-01-20,2027-09-04,12,2024-03-05,40,735,220,447,188,40,Medium Risk,Needs Review
+CRW-0393,Kristine Villanueva,Chief Engineer,Engine,Container Vessel,On Vacation,2026-04-19,2026-09-27,2026-12-10,2028-02-25,2026-06-04,2026-09-05,17,2024-01-23,179,621,-10,83,105,-10,Expired,Not Ready
+CRW-0394,Mark Cruz,Fourth Engineer,Engine,Cable Layer,Pending Documents,2026-01-22,2026-08-24,2026-07-04,2028-01-28,2026-07-07,2027-07-02,8,2025-03-31,20,593,23,383,71,20,High Risk,Not Ready
+CRW-0395,Jose Torres,Rigger,Offshore,General Cargo Vessel,On Vacation,2025-09-04,2026-04-24,2026-05-30,2026-12-07,2027-03-18,2026-12-20,20,2026-04-11,-15,176,277,189,-51,-15,Expired,Not Ready
+CRW-0396,Jose Aquino,Crane Operator,Offshore,Cable Layer,Available,2026-05-15,2026-10-22,2026-07-08,2027-02-21,2027-07-13,2027-05-31,7,2024-06-29,24,252,394,351,130,24,High Risk,Not Ready
+CRW-0397,Nicole Santos,Housekeeping Staff,Hotel,Cable Layer,Available,2026-03-30,2026-12-15,2026-10-17,2028-05-27,2027-05-21,2027-05-25,2,2024-01-31,125,713,341,345,184,125,Low Risk,Ready
+CRW-0398,Jessa Navarro,Chief Cook,Catering,Cable Layer,Available,2026-05-13,2026-11-15,2026-08-22,2027-07-05,2026-09-16,2027-12-28,18,2026-03-02,69,386,94,562,154,69,Low Risk,Ready
+CRW-0399,Nicole Bautista,Rigger,Offshore,Offshore Support Vessel,Onboard,2026-01-07,2026-10-31,2027-01-06,2027-06-05,2027-10-07,2027-02-08,17,2024-03-31,206,356,480,239,139,206,Low Risk,Needs Review
+CRW-0400,Rhea Santos,Cook,Catering,General Cargo Vessel,Pending Documents,2026-03-17,2026-09-19,2026-06-28,2027-06-10,2027-01-10,2028-04-27,15,2024-05-27,14,361,210,683,97,14,High Risk,Not Ready
+CRW-0401,Ana Gonzales,Electrician,Engine,Offshore Support Vessel,Pending Documents,2026-05-11,2027-03-06,2026-10-06,2027-01-24,2027-03-20,2026-09-07,17,2025-04-02,114,224,279,85,265,85,Low Risk,Needs Review
+CRW-0402,Camille Villanueva,Chief Cook,Catering,Cable Layer,Available,2026-01-24,2026-10-17,2026-10-09,2026-11-18,2026-12-10,2027-10-27,11,2024-04-21,117,157,179,500,125,117,Low Risk,Ready
+CRW-0403,Luis Ramos,Second Engineer,Engine,General Cargo Vessel,Available,2026-02-01,2026-08-03,2027-04-06,2027-05-14,2026-11-05,2026-09-21,7,2026-01-13,296,334,144,99,50,99,Low Risk,Ready
+CRW-0404,Michelle Santos,Ordinary Seaman,Deck,General Cargo Vessel,Pending Documents,2026-04-24,2026-12-23,2026-12-01,2028-02-09,2027-04-17,2027-10-21,17,2024-10-04,170,605,307,494,192,170,Low Risk,Needs Review
+CRW-0405,Luis Navarro,Cook,Catering,Container Vessel,On Vacation,2026-03-11,2026-07-22,2027-02-18,2028-08-10,2027-08-06,2027-10-06,7,2024-11-08,249,788,418,479,38,249,Low Risk,Needs Review
+CRW-0406,Paolo Dela Cruz,Able Seaman,Deck,Offshore Support Vessel,Pending Documents,2025-08-23,2026-04-17,2026-11-02,2028-04-19,2026-06-07,2026-06-16,3,2024-06-24,141,675,-7,2,-58,-7,Expired,Not Ready
+CRW-0407,Maria Aquino,Fourth Engineer,Engine,Cable Layer,Onboard,2026-01-03,2026-06-19,2027-03-01,2027-02-08,2027-01-27,2027-03-06,19,2025-01-18,260,239,227,265,5,227,Low Risk,Needs Review
+CRW-0408,Camille Morales,Rigger,Offshore,Offshore Support Vessel,Available,2025-10-13,2026-08-08,2027-06-14,2027-05-31,2027-06-07,2027-07-19,6,2025-08-02,365,351,358,400,55,351,Low Risk,Ready
+CRW-0409,Rhea Flores,Steward,Hotel,Cable Layer,Available,2025-12-28,2026-06-26,2027-03-05,2027-07-31,2027-06-24,2026-12-21,3,2025-12-17,264,412,375,190,12,190,Low Risk,Ready
+CRW-0410,Angela Fernandez,Fourth Engineer,Engine,Bulk Carrier,Available,2025-08-24,2026-05-07,2027-05-28,2027-04-03,2027-10-10,2027-04-07,4,2025-09-01,348,293,483,297,-38,293,Low Risk,Ready
+CRW-0411,Paolo Reyes,Offshore Technician,Offshore,Passenger Ship,Onboard,2026-01-05,2026-09-03,2027-04-12,2026-08-21,2027-09-02,2027-05-12,6,2025-08-22,302,68,445,332,81,68,Low Risk,Needs Review
+CRW-0412,Luis Aquino,Cook,Catering,Cable Layer,On Vacation,2025-10-17,2026-03-17,2026-11-20,2028-10-19,2026-12-19,2028-01-15,0,2024-10-03,159,858,188,580,-89,159,Low Risk,Needs Review
+CRW-0413,Maria Gonzales,Crane Operator,Offshore,Offshore Support Vessel,For Deployment,2025-09-29,2026-02-16,2026-12-06,2028-02-02,2027-03-19,2027-09-21,15,2024-08-07,175,598,278,464,-118,175,Low Risk,Ready
+CRW-0414,Maria Morales,Electrician,Engine,Container Vessel,Not Ready,2025-10-20,2026-03-07,2026-07-04,2026-10-27,2027-05-16,2027-01-23,20,2025-06-28,20,135,336,223,-99,20,High Risk,Not Ready
+CRW-0415,Luis Rivera,Messman,Catering,Offshore Support Vessel,Not Ready,2025-10-25,2026-05-02,2027-01-07,2028-07-22,2027-06-05,2028-01-26,20,2024-11-28,207,769,356,591,-43,207,Low Risk,Needs Review
+CRW-0416,Juan Mendoza,Housekeeping Staff,Hotel,Container Vessel,Available,2026-01-07,2026-11-02,2027-06-12,2026-08-04,2026-12-31,2026-11-21,7,2025-04-04,363,51,200,160,141,51,Medium Risk,Needs Review
+CRW-0417,Grace Reyes,Captain,Deck,Bulk Carrier,Pending Documents,2025-10-24,2026-07-05,2026-07-06,2026-08-29,2027-02-22,2028-02-26,0,2025-12-07,22,76,253,622,21,22,High Risk,Not Ready
+CRW-0418,John Flores,Ordinary Seaman,Deck,Passenger Ship,For Deployment,2025-10-01,2026-07-08,2026-07-28,2026-09-26,2026-11-20,2026-07-03,9,2026-04-10,44,104,159,19,24,19,High Risk,Not Ready
+CRW-0419,Grace Bautista,Cook,Catering,Passenger Ship,Pending Documents,2025-09-30,2026-03-03,2027-05-17,2027-11-18,2026-11-27,2028-01-30,17,2024-09-11,337,522,166,595,-103,166,Low Risk,Needs Review
+CRW-0420,Rhea Morales,Laundry Staff,Hotel,General Cargo Vessel,Not Ready,2025-12-08,2026-07-04,2027-01-26,2027-11-18,2027-01-17,2026-09-03,16,2025-02-17,226,522,217,81,20,81,Low Risk,Needs Review
+CRW-0421,Miguel Castillo,Cook,Catering,Passenger Ship,For Deployment,2026-05-15,2027-01-23,2026-08-02,2027-05-02,2027-03-19,2027-09-27,0,2024-11-14,49,322,278,470,223,49,Medium Risk,Needs Review
+CRW-0422,Rafael Santos,Ordinary Seaman,Deck,Passenger Ship,Pending Documents,2025-12-17,2026-09-15,2026-09-20,2028-08-07,2026-06-06,2027-12-17,13,2025-04-28,98,785,-8,551,93,-8,Expired,Not Ready
+CRW-0423,Kristine Flores,Fourth Engineer,Engine,Cable Layer,Pending Documents,2025-10-28,2026-06-01,2026-09-14,2027-02-08,2026-08-19,2027-08-10,5,2024-08-13,92,239,66,422,-13,66,Low Risk,Needs Review
+CRW-0424,Luis Castillo,Oiler,Engine,Cable Layer,Not Ready,2025-12-29,2026-08-11,2026-08-29,2028-10-04,2026-08-08,2026-12-07,20,2025-12-27,76,843,55,176,58,55,Medium Risk,Needs Review
+CRW-0425,Michelle Dela Cruz,Chief Cook,Catering,General Cargo Vessel,Pending Documents,2025-09-06,2026-02-21,2026-11-05,2026-06-03,2026-11-01,2026-07-24,8,2024-11-14,144,-11,140,40,-113,-11,Expired,Not Ready
+CRW-0426,Luis Mendoza,Chief Mate,Deck,Bulk Carrier,For Deployment,2026-05-11,2026-11-06,2026-07-10,2026-10-16,2026-06-14,2027-10-22,14,2025-10-05,26,124,0,495,145,0,High Risk,Not Ready
+CRW-0427,Ana Dela Cruz,Cook,Catering,Offshore Support Vessel,Pending Documents,2025-11-27,2026-04-16,2027-06-13,2026-10-11,2026-07-26,2027-03-03,1,2024-03-12,364,119,42,262,-59,42,Medium Risk,Needs Review
+CRW-0428,Paolo Ramos,Steward,Hotel,Cable Layer,Pending Documents,2025-11-01,2026-03-04,2026-07-26,2028-07-09,2027-02-08,2027-07-03,8,2024-03-17,42,756,239,384,-102,42,Medium Risk,Needs Review
+CRW-0429,Ryan Dela Cruz,Steward,Hotel,General Cargo Vessel,Onboard,2025-08-22,2026-06-08,2026-09-08,2027-09-11,2027-07-02,2028-05-01,3,2025-06-30,86,454,383,687,-6,86,Low Risk,Needs Review
+CRW-0430,Jose Lopez,Chief Cook,Catering,General Cargo Vessel,Not Ready,2026-03-14,2026-09-14,2027-01-26,2028-02-27,2027-03-31,2026-12-24,16,2025-05-11,226,623,290,193,92,193,Low Risk,Needs Review
+CRW-0431,Carlo Flores,Bosun,Deck,General Cargo Vessel,Available,2025-10-05,2026-04-26,2026-06-01,2026-11-02,2027-03-08,2028-01-23,20,2026-01-13,-13,141,267,588,-49,-13,Expired,Not Ready
+CRW-0432,Rhea Fernandez,Steward,Hotel,Bulk Carrier,Onboard,2026-02-25,2026-09-28,2026-07-09,2027-01-24,2026-11-07,2027-10-28,19,2026-02-11,25,224,146,501,106,25,High Risk,Not Ready
+CRW-0433,Jose Aquino,Rigger,Offshore,General Cargo Vessel,Onboard,2026-02-26,2026-12-22,2027-02-23,2028-08-02,2026-09-16,2026-10-10,20,2025-01-01,254,780,94,118,191,94,Low Risk,Needs Review
+CRW-0434,Ana Dela Cruz,Third Engineer,Engine,Cable Layer,Not Ready,2026-05-05,2027-02-25,2026-12-04,2027-05-16,2026-10-14,2027-02-15,6,2026-04-05,173,336,122,246,256,122,Low Risk,Needs Review
+CRW-0435,Rafael Lopez,Laundry Staff,Hotel,Passenger Ship,On Vacation,2026-02-07,2026-10-30,2026-08-28,2027-11-22,2027-05-21,2027-05-01,15,2024-04-26,75,526,341,321,138,75,Low Risk,Needs Review
+CRW-0436,Paolo Cruz,Housekeeping Staff,Hotel,Cable Layer,On Vacation,2026-02-25,2026-10-18,2026-10-23,2028-08-31,2027-02-23,2027-12-10,16,2025-05-05,131,809,254,544,126,131,Low Risk,Needs Review
+CRW-0437,Kristine Torres,Steward,Hotel,General Cargo Vessel,On Vacation,2025-11-10,2026-08-15,2026-09-24,2027-04-08,2026-08-02,2028-04-08,0,2024-11-10,102,298,49,664,62,49,Medium Risk,Needs Review
+CRW-0438,Camille Lopez,Steward,Hotel,Cable Layer,Not Ready,2025-12-22,2026-07-12,2026-12-20,2028-03-01,2027-04-24,2026-09-25,4,2026-02-06,189,626,314,103,28,103,Low Risk,Needs Review
+CRW-0439,Paolo Reyes,Offshore Technician,Offshore,Bulk Carrier,Available,2026-03-22,2026-11-21,2026-08-31,2026-08-24,2026-07-01,2028-01-09,6,2024-07-27,78,71,17,574,160,17,High Risk,Not Ready
+CRW-0440,Michelle Perez,Laundry Staff,Hotel,Passenger Ship,On Vacation,2026-04-20,2026-11-19,2026-09-15,2028-01-25,2026-08-10,2026-06-17,8,2025-10-14,93,590,57,3,158,3,High Risk,Not Ready
+CRW-0441,Jose Aquino,Steward,Hotel,Passenger Ship,Not Ready,2025-10-15,2026-05-17,2027-05-22,2026-07-13,2027-02-26,2027-11-27,17,2026-04-04,342,29,257,531,-28,29,High Risk,Not Ready
+CRW-0442,Ryan Gonzales,Bosun,Deck,Offshore Support Vessel,Onboard,2026-03-25,2026-09-20,2027-02-21,2027-06-13,2026-12-10,2026-12-18,3,2024-11-23,252,364,179,187,98,179,Low Risk,Needs Review
+CRW-0443,Grace Lopez,Oiler,Engine,General Cargo Vessel,Available,2026-03-22,2026-12-30,2027-03-16,2027-05-16,2027-09-11,2028-05-23,13,2024-07-03,275,336,454,709,199,275,Low Risk,Ready
+CRW-0444,Grace Navarro,Steward,Hotel,Container Vessel,Available,2025-11-24,2026-09-08,2026-08-13,2027-11-12,2027-08-26,2027-05-30,16,2025-06-27,60,516,438,350,86,60,Medium Risk,Needs Review
+CRW-0445,Angela Villanueva,Rigger,Offshore,Offshore Support Vessel,Pending Documents,2026-01-12,2026-10-03,2027-02-28,2026-12-20,2027-06-18,2027-12-19,19,2024-04-13,259,189,369,553,111,189,Low Risk,Needs Review
+CRW-0446,Kristine Santos,Cook,Catering,Passenger Ship,Pending Documents,2025-12-21,2026-09-19,2026-06-02,2027-10-27,2026-10-15,2027-04-09,1,2026-05-09,-12,500,123,299,97,-12,Expired,Not Ready
+CRW-0447,Juan Bautista,Chief Cook,Catering,Container Vessel,For Deployment,2025-08-27,2026-05-16,2027-03-13,2027-12-21,2026-11-04,2026-09-08,17,2026-04-07,272,555,143,86,-29,86,Low Risk,Ready
+CRW-0448,Luis Aquino,Housekeeping Staff,Hotel,Container Vessel,Available,2026-01-08,2026-07-06,2026-10-03,2028-08-22,2027-04-02,2026-09-06,18,2024-10-08,111,800,292,84,22,84,Low Risk,Ready
+CRW-0449,Mark Villanueva,Laundry Staff,Hotel,Container Vessel,Not Ready,2026-02-16,2026-10-18,2027-05-13,2028-05-03,2026-09-04,2028-02-03,15,2024-07-27,333,689,82,599,126,82,Low Risk,Needs Review
+CRW-0450,Kristine Cruz,Chief Cook,Catering,General Cargo Vessel,On Vacation,2025-11-25,2026-06-22,2027-01-02,2027-07-15,2026-09-30,2027-01-22,1,2024-04-10,202,396,108,222,8,108,Low Risk,Needs Review
+CRW-0451,Kristine Reyes,Offshore Technician,Offshore,General Cargo Vessel,Not Ready,2025-08-20,2025-12-28,2026-11-04,2027-11-18,2026-10-30,2027-05-04,9,2024-12-17,143,522,138,324,-168,138,Low Risk,Needs Review
+CRW-0452,Kristine Dela Cruz,Second Engineer,Engine,Bulk Carrier,Not Ready,2025-08-30,2026-01-20,2026-09-15,2027-07-31,2027-03-22,2027-07-12,19,2025-12-15,93,412,281,393,-145,93,Low Risk,Needs Review
+CRW-0453,Rhea Reyes,Third Engineer,Engine,Bulk Carrier,Pending Documents,2025-10-23,2026-04-28,2026-07-07,2027-06-27,2027-10-25,2027-08-22,17,2024-03-14,23,378,498,434,-47,23,High Risk,Not Ready
+CRW-0454,Grace Ramos,Electrician,Engine,Container Vessel,Pending Documents,2025-10-25,2026-08-07,2027-03-13,2026-12-01,2027-02-06,2027-02-07,15,2026-03-03,272,170,237,238,54,170,Low Risk,Needs Review
+CRW-0455,Rhea Cruz,Cook,Catering,Offshore Support Vessel,Not Ready,2025-10-16,2026-06-01,2026-11-28,2027-05-06,2026-12-11,2027-04-28,3,2025-05-28,167,326,180,318,-13,167,Low Risk,Needs Review
+CRW-0456,Ana Rivera,Offshore Technician,Offshore,Offshore Support Vessel,Available,2026-03-02,2026-10-20,2026-06-16,2028-08-29,2027-01-24,2026-12-25,14,2024-06-13,2,807,224,194,128,2,High Risk,Not Ready
+CRW-0457,Carlo Reyes,Chief Cook,Catering,General Cargo Vessel,Onboard,2026-03-01,2026-09-10,2026-06-01,2027-05-01,2026-09-20,2027-04-12,7,2025-02-09,-13,321,98,302,88,-13,Expired,Not Ready
+CRW-0458,Grace Ramos,Steward,Hotel,Offshore Support Vessel,Available,2025-08-21,2026-02-23,2027-03-01,2027-09-21,2026-10-21,2028-05-15,6,2024-05-30,260,464,129,701,-111,129,Low Risk,Ready
+CRW-0459,Nicole Reyes,Third Mate,Deck,Cable Layer,Not Ready,2026-02-17,2026-07-02,2026-10-17,2026-12-06,2027-03-03,2026-07-28,8,2025-01-24,125,175,262,44,18,44,Medium Risk,Needs Review
+CRW-0460,Luis Aquino,Captain,Deck,Passenger Ship,Not Ready,2026-05-06,2026-11-16,2027-04-22,2027-06-14,2027-01-21,2027-06-28,3,2024-12-11,312,365,221,379,155,221,Low Risk,Needs Review
+CRW-0461,Grace Cruz,Second Mate,Deck,Passenger Ship,On Vacation,2026-02-03,2026-10-09,2027-01-14,2027-12-10,2026-06-21,2026-07-14,5,2025-09-04,214,544,7,30,117,7,High Risk,Not Ready
+CRW-0462,Kristine Torres,Rigger,Offshore,Offshore Support Vessel,Pending Documents,2025-11-19,2026-09-10,2026-11-21,2027-05-13,2027-04-04,2027-01-31,0,2024-12-18,160,333,294,231,88,160,Low Risk,Needs Review
+CRW-0463,Kristine Santos,Chief Cook,Catering,General Cargo Vessel,For Deployment,2025-12-23,2026-06-18,2026-08-10,2027-04-29,2027-07-06,2028-04-06,17,2025-12-26,57,319,387,662,4,57,Medium Risk,Needs Review
+CRW-0464,Michelle Flores,Ordinary Seaman,Deck,Passenger Ship,On Vacation,2026-01-12,2026-10-05,2026-08-11,2027-07-25,2027-04-14,2028-02-13,13,2025-06-12,58,406,304,609,113,58,Medium Risk,Needs Review
+CRW-0465,Miguel Perez,Laundry Staff,Hotel,Container Vessel,Available,2026-02-01,2026-07-06,2026-10-30,2028-04-19,2026-10-15,2027-08-18,17,2024-03-18,138,675,123,430,22,123,Low Risk,Ready
+CRW-0466,Maria Cruz,Wiper,Engine,Cable Layer,Available,2026-03-16,2026-08-30,2026-11-03,2028-09-20,2026-10-26,2026-07-04,17,2024-03-23,142,829,134,20,77,20,High Risk,Not Ready
+CRW-0467,Jessa Bautista,Cook,Catering,Passenger Ship,For Deployment,2026-02-08,2026-07-05,2026-07-31,2026-11-20,2026-06-25,2028-02-20,4,2024-08-22,47,159,11,616,21,11,High Risk,Not Ready
+CRW-0468,John Rivera,Messman,Catering,Cable Layer,On Vacation,2026-01-17,2026-11-08,2026-06-07,2027-05-17,2026-08-19,2028-05-08,7,2024-03-08,-7,337,66,694,147,-7,Expired,Not Ready
+CRW-0469,Camille Aquino,Steward,Hotel,Cable Layer,On Vacation,2025-10-29,2026-07-01,2027-01-22,2026-10-02,2026-11-13,2026-12-18,5,2025-09-26,222,110,152,187,17,110,Low Risk,Needs Review
+CRW-0470,Angela Flores,Third Mate,Deck,Bulk Carrier,For Deployment,2026-01-31,2026-06-16,2026-08-23,2027-08-07,2027-10-13,2028-05-08,6,2025-06-17,70,419,486,694,2,70,Low Risk,Ready
+CRW-0471,Jose Rivera,Steward,Hotel,Passenger Ship,Pending Documents,2025-12-06,2026-07-14,2027-04-03,2028-06-13,2026-07-08,2027-11-19,12,2026-01-24,293,730,24,523,30,24,High Risk,Not Ready
+CRW-0472,Nicole Lopez,Housekeeping Staff,Hotel,Bulk Carrier,Available,2026-04-25,2027-01-12,2026-12-09,2027-10-25,2026-07-19,2026-12-15,12,2025-07-21,178,498,35,184,212,35,Medium Risk,Needs Review
+CRW-0473,Jessa Torres,Housekeeping Staff,Hotel,Offshore Support Vessel,For Deployment,2025-12-16,2026-09-18,2026-06-21,2028-04-20,2026-10-22,2027-09-21,13,2024-01-17,7,676,130,464,96,7,High Risk,Not Ready
+CRW-0474,Carlo Torres,Steward,Hotel,General Cargo Vessel,On Vacation,2026-03-07,2026-10-13,2026-12-22,2027-04-11,2027-09-03,2026-06-29,18,2025-11-13,191,301,446,15,121,15,High Risk,Not Ready
+CRW-0475,Jessa Cruz,Laundry Staff,Hotel,General Cargo Vessel,Available,2025-12-01,2026-09-24,2027-04-22,2028-11-28,2026-11-13,2028-06-08,8,2024-04-25,312,898,152,725,102,152,Low Risk,Ready
+CRW-0476,Jessa Aquino,Captain,Deck,Bulk Carrier,Not Ready,2025-08-20,2026-03-26,2027-06-01,2028-08-02,2026-11-09,2027-06-26,2,2024-10-29,352,780,148,377,-80,148,Low Risk,Needs Review
+CRW-0477,Rhea Mendoza,Steward,Hotel,Container Vessel,For Deployment,2026-03-02,2026-08-14,2027-05-24,2026-07-06,2027-08-02,2027-04-15,5,2025-07-03,344,22,414,305,61,22,High Risk,Not Ready
+CRW-0478,Carlo Mendoza,Housekeeping Staff,Hotel,General Cargo Vessel,Available,2026-05-14,2027-02-17,2026-10-01,2026-05-27,2027-09-11,2027-10-26,6,2024-12-21,109,-18,454,499,248,-18,Expired,Not Ready
+CRW-0479,John Ramos,Offshore Technician,Offshore,Cable Layer,Pending Documents,2025-09-14,2026-05-08,2026-12-20,2027-08-10,2026-08-19,2028-02-09,18,2024-09-08,189,422,66,605,-37,66,Low Risk,Needs Review
+CRW-0480,Michelle Lopez,Chief Mate,Deck,Cable Layer,For Deployment,2026-04-20,2026-10-04,2026-08-08,2026-07-10,2027-05-22,2026-07-11,6,2025-12-18,55,26,342,27,112,26,High Risk,Not Ready
+CRW-0481,Rafael Villanueva,Ordinary Seaman,Deck,Cable Layer,On Vacation,2026-04-20,2026-09-14,2026-12-24,2026-11-13,2026-11-11,2028-04-22,2,2025-07-28,193,152,150,678,92,150,Low Risk,Needs Review
+CRW-0482,Rhea Aquino,Crane Operator,Offshore,Passenger Ship,Not Ready,2026-03-29,2026-10-11,2026-11-06,2027-05-27,2027-06-22,2026-08-12,1,2024-03-30,145,347,373,59,119,59,Medium Risk,Needs Review
+CRW-0483,Camille Mendoza,Laundry Staff,Hotel,Bulk Carrier,For Deployment,2025-12-26,2026-07-18,2027-02-18,2027-07-12,2026-12-30,2028-05-16,3,2025-10-13,249,393,199,702,34,199,Low Risk,Ready
+CRW-0484,Nicole Cruz,Offshore Technician,Offshore,Bulk Carrier,On Vacation,2025-12-19,2026-08-05,2027-04-01,2028-09-29,2027-04-19,2027-02-24,15,2024-11-23,291,838,309,255,52,255,Low Risk,Needs Review
+CRW-0485,Rhea Fernandez,Rigger,Offshore,Container Vessel,On Vacation,2025-09-03,2026-05-07,2026-08-25,2028-11-04,2027-01-23,2028-05-29,16,2025-07-22,72,874,223,715,-38,72,Low Risk,Needs Review
+CRW-0486,Jessa Garcia,Chief Engineer,Engine,Bulk Carrier,Onboard,2025-10-15,2026-05-28,2026-06-17,2027-04-21,2027-05-23,2027-12-29,6,2024-02-10,3,311,343,563,-17,3,High Risk,Not Ready
+CRW-0487,Rafael Bautista,Chief Engineer,Engine,General Cargo Vessel,Available,2025-12-09,2026-06-23,2027-02-08,2027-11-29,2027-04-26,2026-06-10,2,2026-01-19,239,533,316,-4,9,-4,Expired,Not Ready
+CRW-0488,Rhea Rivera,Cook,Catering,Passenger Ship,Not Ready,2026-02-15,2026-08-03,2026-11-10,2028-09-14,2027-05-11,2028-04-22,0,2025-01-10,149,823,331,678,50,149,Low Risk,Needs Review
+CRW-0489,Camille Mendoza,Steward,Hotel,General Cargo Vessel,Available,2025-09-22,2026-06-06,2026-11-12,2027-08-31,2027-07-27,2026-07-31,20,2024-01-11,151,443,408,47,-8,47,Medium Risk,Needs Review
+CRW-0490,Maria Lopez,Rigger,Offshore,Cable Layer,Not Ready,2026-05-06,2026-10-26,2027-03-16,2028-04-15,2027-05-04,2027-06-01,17,2026-03-09,275,671,324,352,134,275,Low Risk,Needs Review
+CRW-0491,Kristine Lopez,Third Engineer,Engine,Bulk Carrier,For Deployment,2025-10-28,2026-04-13,2027-03-25,2026-09-11,2027-04-10,2028-05-26,5,2025-06-27,284,89,300,712,-62,89,Low Risk,Ready
+CRW-0492,Camille Flores,Second Mate,Deck,Passenger Ship,Onboard,2025-09-26,2026-04-11,2026-09-12,2027-11-03,2027-04-04,2026-11-30,11,2026-01-21,90,507,294,169,-64,90,Low Risk,Needs Review
+CRW-0493,Jessa Gonzales,Chief Cook,Catering,Container Vessel,Onboard,2025-09-10,2026-05-16,2026-08-11,2026-11-25,2027-05-13,2027-10-12,0,2024-04-25,58,164,333,485,-29,58,Medium Risk,Needs Review
+CRW-0494,Carlo Gonzales,Rigger,Offshore,Offshore Support Vessel,Available,2026-01-30,2026-06-08,2027-01-15,2027-06-15,2026-09-25,2026-06-08,4,2025-07-01,215,366,103,-6,-6,-6,Expired,Not Ready
+CRW-0495,Maria Dela Cruz,Ordinary Seaman,Deck,Cable Layer,Onboard,2026-03-24,2026-12-02,2027-04-27,2028-06-16,2027-04-14,2026-06-27,1,2024-10-01,317,733,304,13,171,13,High Risk,Not Ready
+CRW-0496,Ryan Ramos,Messman,Catering,Container Vessel,For Deployment,2025-12-25,2026-09-07,2026-11-04,2028-07-14,2027-08-24,2028-04-21,9,2026-01-15,143,761,436,677,85,143,Low Risk,Ready
+CRW-0497,Carlo Santos,Chief Cook,Catering,Container Vessel,For Deployment,2025-08-25,2026-01-18,2026-09-07,2027-11-21,2027-05-23,2027-12-18,19,2025-06-23,85,525,343,552,-147,85,Low Risk,Ready
+CRW-0498,Rhea Flores,Chief Cook,Catering,General Cargo Vessel,For Deployment,2026-04-09,2026-10-25,2027-04-03,2028-11-13,2027-05-11,2027-12-09,5,2025-02-15,293,883,331,543,133,293,Low Risk,Ready
+CRW-0499,Jose Garcia,Chief Mate,Deck,Bulk Carrier,Pending Documents,2026-04-18,2026-09-07,2026-12-29,2027-06-20,2026-11-29,2028-05-25,12,2024-09-12,198,371,168,711,85,168,Low Risk,Needs Review
+CRW-0500,Rafael Villanueva,Safety Officer,Offshore,Cable Layer,For Deployment,2026-04-05,2026-11-30,2027-03-11,2026-09-26,2026-09-02,2028-05-19,6,2025-01-21,270,104,80,705,169,80,Low Risk,Ready
